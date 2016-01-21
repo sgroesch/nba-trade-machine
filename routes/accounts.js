@@ -16,12 +16,15 @@ router.post('/login', passport.authenticate('local', { failureRedirect: '/' }),
 );
 
 router.post('/register', function(req, res){
-  var checkUsername = checkLength(req.body.username, 16);
-  var checkEmail = checkLength(req.body.email, 50);
-  var checkPassword = checkLength(req.body.password, 16);
-  if (checkUsername == false || checkEmail == false || checkPassword == false) {
-    return res.redirect('/');
-  }
+
+  // Redo in React
+
+  // var checkUsername = checkLength(req.body.username, 16);
+  // var checkEmail = checkLength(req.body.email, 50);
+  // var checkPassword = checkLength(req.body.password, 16);
+  // if (checkUsername == false || checkEmail == false || checkPassword == false) {
+  //   return res.redirect('/');
+  // }
   Models.Account.register(new Models.Account({
       username: req.body.username,
       email: req.body.email
