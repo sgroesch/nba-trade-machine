@@ -29,8 +29,7 @@ passport.deserializeUser(Models.Account.deserializeUser());
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'jsx');
-app.engine('jsx', require('express-react-views').createEngine());
+app.set('view engine', 'hbs');
 
 
 // Set view engine to hbs

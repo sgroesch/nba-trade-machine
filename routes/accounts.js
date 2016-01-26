@@ -6,7 +6,7 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send('respond with a resource');
+  res.render('account', { user: req.user });
 });
 
 router.post('/login', passport.authenticate('local', { failureRedirect: '/' }),
