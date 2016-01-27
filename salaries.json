@@ -1,0 +1,6052 @@
+[{
+  "teamName": "Atlanta Hawks",
+  "salaries": [{
+    "playerName": "Paul Millsap",
+    "contract": [{
+      "year": 2015,
+      "salary": "$18,671,659",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$20,072,033",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$21,472,408",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Al Horford",
+    "contract": [{
+      "year": 2015,
+      "salary": "$12,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Tiago Splitter",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,800,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$8,550,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jeff Teague",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$8,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kyle Korver",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,746,479",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,239,437",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Thabo Sefolosha",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,850,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Mike Scott",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,333,333",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,333,334",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Shelvin Mack",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,433,333",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,433,334",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kent Bazemore",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Dennis Schr&amp;#xF6;der",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,763,400",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,708,582",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Tim Hardaway Jr.",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,304,520",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,281,605",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Walter Tavares",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,000,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,014,746",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Justin Holiday",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,015,696",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Mike Muscala",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,015,696",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Lamar Patterson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Detroit Pistons",
+  "salaries": [{
+    "playerName": "Reggie Jackson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$13,913,043",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$14,956,522",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$16,000,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$17,043,478",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$18,086,957",
+      "option": "None"
+    }]
+  }, {
+    "playerName": "Brandon Jennings",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,344,497",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Ersan Ilyasova",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,900,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$8,400,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Aron Baynes",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,500,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,500,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$6,500,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jodie Meeks",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,270,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,540,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Marcus Morris",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,625,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$5,000,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$5,375,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Andre Drummond",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,272,090",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Anthony Tolliver",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kentavious Caldwell-Pope ",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,891,760",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,678,319",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Stanley Johnson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,841,960",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,969,880",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,097,800",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2018,
+      "salary": "$3,940,402",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Joel Anthony",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,500,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,500,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Steve Blake",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,170,465",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Reggie Bullock",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,252,440",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,255,644",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Spencer Dinwiddie",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Darrun Hilliard II",
+    "contract": [{
+      "year": 2015,
+      "salary": "$600,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$1,014,746",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Chicago Bulls",
+  "salaries": [{
+    "playerName": "Derrick Rose",
+    "contract": [{
+      "year": 2015,
+      "salary": "$20,093,064",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$21,323,252",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jimmy Butler",
+    "contract": [{
+      "year": 2015,
+      "salary": "$16,407,500",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$17,552,209",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$18,696,918",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$19,841,624",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$19,841,627",
+      "option": "Player"
+    }]
+  }, {
+    "playerName": "Joakim Noah",
+    "contract": [{
+      "year": 2015,
+      "salary": "$13,400,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Taj Gibson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,500,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$8,950,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Pau Gasol",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,448,760",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,769,520",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Nikola Mirotic",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,543,725",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,782,450",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Mike Dunleavy",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,500,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,837,500",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$5,175,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kirk Hinrich",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,854,940",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Doug McDermott",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,380,440",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,483,040",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,294,994",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Aaron Brooks",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,250,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Tony Snell",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,535,880",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,368,327",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Bobby Portis",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,391,160",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,453,680",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,516,320",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,494,346",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "E&amp;apos;Twaun Moore",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,015,421",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Cameron Bairstow",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Cristiano Felicio",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Boston Celtics",
+  "salaries": [{
+    "playerName": "David Lee",
+    "contract": [{
+      "year": 2015,
+      "salary": "$15,493,680",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Amir Johnson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$12,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,000,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Avery Bradley",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,730,337",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$8,269,663",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$8,808,989",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Isaiah Thomas",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,912,869",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,587,132",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$6,261,395",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jae Crowder",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,086,957",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,543,478",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$7,000,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$7,456,522",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$7,913,043",
+      "option": "None"
+    }]
+  }, {
+    "playerName": "Jonas Jerebko",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,000,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Marcus Smart",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,431,040",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,578,880",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$4,538,020",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Evan Turner",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,425,510",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Tyler Zeller",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,616,975",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Jared Sullinger",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,269,260",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Kelly Olynyk",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,165,160",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,094,014",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Terry Rozier",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,824,360",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,906,440",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,988,520",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$3,050,390",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "James Young",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,749,840",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,825,200",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,803,507",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Jordan Mickey",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,170,960",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,223,653",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,276,346",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2018,
+      "salary": "$1,329,039",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "R.J. Hunter",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,148,640",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,200,240",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,251,960",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,259,788",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Cleveland Cavaliers",
+  "salaries": [{
+    "playerName": "LeBron James",
+    "contract": [{
+      "year": 2015,
+      "salary": "$22,970,500",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$24,004,173",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kevin Love",
+    "contract": [{
+      "year": 2015,
+      "salary": "$19,689,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$21,165,675",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$22,642,350",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$24,119,025",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$25,595,700",
+      "option": "None"
+    }]
+  }, {
+    "playerName": "Kyrie Irving",
+    "contract": [{
+      "year": 2015,
+      "salary": "$16,407,500",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$17,638,063",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$18,868,625",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$20,099,188",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$21,329,750",
+      "option": "None"
+    }]
+  }, {
+    "playerName": "Tristan Thompson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$14,260,870",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$15,330,435",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$16,400,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$17,469,565",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$18,539,130",
+      "option": "None"
+    }]
+  }, {
+    "playerName": "Anderson Varejao",
+    "contract": [{
+      "year": 2015,
+      "salary": "$9,638,554",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$10,361,446",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$10,000,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Iman Shumpert",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,988,764",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$9,662,921",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$10,337,079",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$11,011,236",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "J.R. Smith",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,000,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Timofey Mozgov",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,950,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Mo Williams",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,100,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,194,500",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Sasha Kaun",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,222,494",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,277,506",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Matt Dellavedova",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,147,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Jared Cunningham",
+    "contract": [{
+      "year": 2015,
+      "salary": "$981,348",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Richard Jefferson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "James Jones",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }]
+}, {
+  "teamName": "Indiana Pacers",
+  "salaries": [{
+    "playerName": "Paul George",
+    "contract": [{
+      "year": 2015,
+      "salary": "$17,120,106",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$18,314,532",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$19,508,958",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$20,703,384",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Monta Ellis",
+    "contract": [{
+      "year": 2015,
+      "salary": "$10,300,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$10,763,500",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$11,227,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$11,690,500",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "George Hill",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$8,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Rodney Stuckey",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,000,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$7,000,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Chase Budinger",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "C.J. Miles",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,394,225",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,583,450",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$4,772,675",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "LaVoy Allen",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,050,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,000,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$4,000,000",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Ian Mahinmi",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jordan Hill",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Myles Turner",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,357,760",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,463,840",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,569,920",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$3,410,284",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Solomon Hill",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,358,880",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Glen Robinson III",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,100,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,050,500",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$1,090,500",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Rakeem Christmas",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,007,026",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,052,342",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,097,658",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2018,
+      "salary": "$1,142,974",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Joseph Young",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,007,026",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,052,342",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,097,658",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2018,
+      "salary": "$1,142,974",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Shayne Whittington",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Charlotte Hornets",
+  "salaries": [{
+    "playerName": "Al Jefferson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$13,500,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Nicolas Batum",
+    "contract": [{
+      "year": 2015,
+      "salary": "$13,125,307",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kemba Walker",
+    "contract": [{
+      "year": 2015,
+      "salary": "$12,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,000,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$12,000,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$12,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Marvin Williams",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Michael Kidd-Gilchrist",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,331,403",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$11,685,393",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$12,561,798",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$13,438,202",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$14,314,607",
+      "option": "Player"
+    }]
+  }, {
+    "playerName": "Spencer Hawes",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,110,034",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,348,759",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$6,021,175",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Cody Zeller",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,204,200",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,318,313",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Jeremy Lamb",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,034,356",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,511,628",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$7,000,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$7,488,372",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Brian Roberts",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,854,940",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Frank Kaminsky",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,612,520",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,135,024",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,847,600",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$3,627,842",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Jeremy Lin",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,139,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,235,255",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "P.J. Hairston",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,201,440",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,253,160",
+      "option": "Team"
+    }, {
+      "year": 2017,
+      "salary": "$2,259,447",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Tyler Hansbrough",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Troy Daniels",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Aaron Harrison",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Minnesota Timberwolves",
+  "salaries": [{
+    "playerName": "Ricky Rubio",
+    "contract": [{
+      "year": 2015,
+      "salary": "$12,700,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$13,400,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$14,100,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$14,800,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Nikola Pekovic",
+    "contract": [{
+      "year": 2015,
+      "salary": "$12,100,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,100,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$11,600,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kevin Garnett",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,500,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$8,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kevin Martin",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,085,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,377,500",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Andrew Wiggins",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,758,680",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,006,600",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$7,574,323",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Karl-Anthony Towns",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,703,600",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,960,160",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$6,216,840",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$7,839,435",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Nemanja Bjelica",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,950,001",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,800,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,949,999",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Zach LaVine",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,148,360",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,240,880",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,202,218",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Shabazz Muhammad",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,056,920",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,046,299",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Adreian Payne",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,938,840",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,022,240",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,100,094",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Gorgui Dieng",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,474,440",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,348,783",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Tyus Jones",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,282,080",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,339,680",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,397,400",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,444,053",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Damjan Rudez",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,149,500",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,199,000",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Tayshaun Prince",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Andre Miller",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }]
+}, {
+  "teamName": "Orlando Magic",
+  "salaries": [{
+    "playerName": "Tobias Harris",
+    "contract": [{
+      "year": 2015,
+      "salary": "$16,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$17,200,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$16,000,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$14,800,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Nikola Vucevic",
+    "contract": [{
+      "year": 2015,
+      "salary": "$11,250,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$11,750,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$12,250,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$12,750,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Channing Frye",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,193,029",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,806,971",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$7,420,912",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Victor Oladipo",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,192,520",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,552,960",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "C.J. Watson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,000,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$5,000,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jason Smith",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,300,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Aaron Gordon",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,171,680",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,351,320",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$5,504,420",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Mario Hezonja",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,741,480",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,909,840",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$4,078,320",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$5,167,231",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Elfrid Payton",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,505,720",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,613,600",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,332,340",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Andrew Nicholson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,380,593",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Evan Fournier",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,288,204",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Shabazz Napier",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,294,440",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,350,120",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,361,360",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Dewayne Dedmon",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Roy Devyn Marble",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Keith Appling",
+    "contract": [{
+      "year": 2015,
+      "salary": "$30,888",
+      "option": "None"
+    }],
+    "freeAgencyStatus": null
+  }]
+}, {
+  "teamName": "Phoenix Suns",
+  "salaries": [{
+    "playerName": "Eric Bledsoe",
+    "contract": [{
+      "year": 2015,
+      "salary": "$13,500,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$14,000,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$14,500,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$15,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Brandon Knight",
+    "contract": [{
+      "year": 2015,
+      "salary": "$13,500,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,606,250",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$13,618,750",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$14,631,250",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$15,643,750",
+      "option": "None"
+    }]
+  }, {
+    "playerName": "Tyson Chandler",
+    "contract": [{
+      "year": 2015,
+      "salary": "$13,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,415,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$13,000,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$13,585,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Markieff Morris",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,400,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$8,000,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$8,600,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Mirza Teletovic",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,500,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "P.J. Tucker",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,500,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,300,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Alex Len",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,807,120",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,823,621",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Sonny Weems",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,814,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,940,630",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Devin Booker",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,127,840",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,223,600",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,319,360",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$3,314,365",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "T.J. Warren",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,041,080",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,128,920",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,152,931",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Archie Goodwin",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,160,160",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,094,089",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Jon Leuer",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,035,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Ronnie Price",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Lorenzo Brown",
+    "contract": [{
+      "year": 2015,
+      "salary": "$49,709",
+      "option": "None"
+    }],
+    "freeAgencyStatus": null
+  }, {
+    "playerName": "Corey Jefferson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$49,709",
+      "option": "None"
+    }],
+    "freeAgencyStatus": null
+  }]
+}, {
+  "teamName": "Miami Heat",
+  "salaries": [{
+    "playerName": "Chris Bosh",
+    "contract": [{
+      "year": 2015,
+      "salary": "$22,192,730",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$23,741,060",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$25,289,390",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$26,837,720",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Dwyane Wade",
+    "contract": [{
+      "year": 2015,
+      "salary": "$20,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Goran Dragic",
+    "contract": [{
+      "year": 2015,
+      "salary": "$14,783,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$15,891,725",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$17,000,450",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$18,109,175",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$19,217,900",
+      "option": "Player"
+    }]
+  }, {
+    "playerName": "Luol Deng",
+    "contract": [{
+      "year": 2015,
+      "salary": "$10,151,612",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Josh McRoberts",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,543,725",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,782,450",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$6,021,175",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Chris Andersen",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Udonis Haslem",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,854,940",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Justise Winslow",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,481,720",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,593,440",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,705,040",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$3,448,926",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Beno Udrih",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,170,465",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Hassan Whiteside",
+    "contract": [{
+      "year": 2015,
+      "salary": "$981,348",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Amar&amp;apos;e Stoudemire",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Gerald Green",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jarnell Stokes",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Tyler Johnson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Josh Richardson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$1,014,746",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Denver Nuggets",
+  "salaries": [{
+    "playerName": "Danilo Gallinari",
+    "contract": [{
+      "year": 2015,
+      "salary": "$14,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$15,050,000",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$16,100,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kenneth Faried",
+    "contract": [{
+      "year": 2015,
+      "salary": "$11,235,955",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,078,652",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$12,921,348",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$13,764,045",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Wilson Chandler",
+    "contract": [{
+      "year": 2015,
+      "salary": "$10,449,438",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$11,233,146",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$12,016,854",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$12,800,562",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "J.J Hickson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,613,500",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jameer Nelson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,345,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,540,525",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$4,736,050",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Will Barton",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,533,333",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,533,333",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,533,333",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Randy Foye",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,135,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Emmanuel Mudiay",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,102,240",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,241,800",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,381,480",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$4,294,480",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Darrell Arthur",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,814,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,940,630",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jusuf Nurkic",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,842,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,921,320",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,947,305",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Joffrey Lauvergne",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,709,719",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,709,719",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Gary Harris",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,587,480",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,655,880",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,550,055",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Nikola Jokic",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,300,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,358,500",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,417,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$1,475,500",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Mike Miller",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Sean Kilpatrick",
+    "contract": [{
+      "year": 2015,
+      "salary": "$30,888",
+      "option": "None"
+    }],
+    "freeAgencyStatus": null
+  }]
+}, {
+  "teamName": "Dallas Mavericks",
+  "salaries": [{
+    "playerName": "Wesley Matthews",
+    "contract": [{
+      "year": 2015,
+      "salary": "$16,407,500",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$17,145,838",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$17,884,175",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$18,622,513",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Chandler Parsons",
+    "contract": [{
+      "year": 2015,
+      "salary": "$15,361,500",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$16,023,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Dirk Nowitzki",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,333,334",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$8,692,184",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Deron Williams",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,378,974",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,621,026",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Zaza Pachulia",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,200,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jose Barea",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,290,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,096,950",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,903,900",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$3,710,850",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Devin Harris",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,053,446",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,227,996",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$4,402,546",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Raymond Felton",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,950,313",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Justin Anderson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,449,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,514,160",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,579,440",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,516,048",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "JaVale McGee",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,270,964",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,403,611",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jeremy Evans",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,100,602",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,227,286",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "John Jenkins",
+    "contract": [{
+      "year": 2015,
+      "salary": "$981,348",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,050,961",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$1,178,992",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Charlie Villanueva",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Dwight Powell",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Salah Mejri",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$1,014,746",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Memphis Grizzlies",
+  "salaries": [{
+    "playerName": "Marc Gasol",
+    "contract": [{
+      "year": 2015,
+      "salary": "$19,689,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$21,165,675",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$22,642,350",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$24,119,025",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$25,595,700",
+      "option": "Player"
+    }]
+  }, {
+    "playerName": "Zach Randolph",
+    "contract": [{
+      "year": 2015,
+      "salary": "$9,638,555",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$10,361,445",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Mike Conley",
+    "contract": [{
+      "year": 2015,
+      "salary": "$9,588,426",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jeff Green",
+    "contract": [{
+      "year": 2015,
+      "salary": "$9,200,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Courtney Lee",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,675,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Brandan Wright",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,464,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,709,880",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$5,955,760",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Tony Allen",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,168,539",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,505,618",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Mario Chalmers",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,300,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Vince Carter",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,088,019",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,264,057",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Matt Barnes",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,542,500",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jordan Adams",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,404,600",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,465,080",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,410,057",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Jarell Martin",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,230,840",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,286,160",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,341,600",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,416,222",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "JaMychal Green",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "James Ennis",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Russ Smith",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Ryan Hollins",
+    "contract": [{
+      "year": 2015,
+      "salary": "$55,722",
+      "option": "None"
+    }],
+    "freeAgencyStatus": null
+  }, {
+    "playerName": "Elliot Williams",
+    "contract": [{
+      "year": 2015,
+      "salary": "$55,722",
+      "option": "None"
+    }],
+    "freeAgencyStatus": null
+  }]
+}, {
+  "teamName": "Golden State Warriors",
+  "salaries": [{
+    "playerName": "Klay Thompson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$15,501,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$16,663,575",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$17,826,150",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$18,988,725",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Draymond Green",
+    "contract": [{
+      "year": 2015,
+      "salary": "$14,260,870",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$15,330,435",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$16,400,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$17,469,565",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$18,539,130",
+      "option": "None"
+    }]
+  }, {
+    "playerName": "Andrew Bogut",
+    "contract": [{
+      "year": 2015,
+      "salary": "$13,800,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,681,081",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Andre Iguodala",
+    "contract": [{
+      "year": 2015,
+      "salary": "$11,710,456",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$11,131,368",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Stephen Curry",
+    "contract": [{
+      "year": 2015,
+      "salary": "$11,370,786",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,112,359",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jason Thompson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,658,282",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,052,032",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Shaun Livingston",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,543,725",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,782,450",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Harrison Barnes",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,873,398",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Marreese Speights",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,815,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Leandro Barbosa",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,500,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Festus Ezeli",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,008,748",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Brandon Rush",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,270,964",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kevon Looney",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,131,960",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,182,840",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,233,840",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,227,081",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Ian Clark",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "James McAdoo",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Milwaukee Bucks",
+  "salaries": [{
+    "playerName": "Greg Monroe",
+    "contract": [{
+      "year": 2015,
+      "salary": "$16,407,500",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$17,145,838",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$17,884,175",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Khris Middleton",
+    "contract": [{
+      "year": 2015,
+      "salary": "$14,700,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$15,200,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$14,100,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$13,000,000",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$13,000,000",
+      "option": "Player"
+    }]
+  }, {
+    "playerName": "O.J. Mayo",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Greivis Vasquez",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,600,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jabari Parker",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,152,440",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,374,320",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$6,782,392",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Jerryd Bayless",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "John Henson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,943,221",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,267,606",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$11,422,536",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$10,577,466",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$9,732,396",
+      "option": "None"
+    }]
+  }, {
+    "playerName": "Michael Carter-Williams",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,399,040",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,183,526",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Miles Plumlee",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,109,293",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Giannis Antetokounmpo",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,953,960",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,995,421",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Rashad Vaughn",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,733,040",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,811,040",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,889,040",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,901,565",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Tyler Ennis",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,662,360",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,733,880",
+      "option": "Team"
+    }, {
+      "year": 2017,
+      "salary": "$2,666,707",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Chris Copeland",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,150,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Damien Inglis",
+    "contract": [{
+      "year": 2015,
+      "salary": "$855,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Johnny O&amp;apos;Bryant",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Houston Rockets",
+  "salaries": [{
+    "playerName": "Dwight Howard",
+    "contract": [{
+      "year": 2015,
+      "salary": "$22,359,364",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$23,282,457",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "James Harden",
+    "contract": [{
+      "year": 2015,
+      "salary": "$15,756,438",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$16,784,031",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$17,811,625",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Ty Lawson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$12,404,495",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$13,213,482",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Corey Brewer",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,229,375",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,612,172",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$7,579,366",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Trevor Ariza",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,193,030",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,806,971",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$7,420,912",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Patrick Beverley",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,486,486",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,000,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$5,513,513",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$5,027,027",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "K.J. McDaniels",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,189,793",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,333,333",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,476,874",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Terrence Jones",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,489,529",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Donatas Motiejunas",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,288,205",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Sam Dekker",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,646,400",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,720,560",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,794,600",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,760,095",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Clint Capela",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,242,720",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,296,240",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,334,528",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Montrezl Harrell",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,045,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,090,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Josh Smith",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Marcus Thornton",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jason Terry",
+    "contract": [{
+      "year": 2015,
+      "salary": "$942,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }]
+}, {
+  "teamName": "Portland Trail Blazers",
+  "salaries": [{
+    "playerName": "Al-Farouq Aminu",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,042,895",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,680,965",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$7,319,035",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$6,957,105",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Ed Davis",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,980,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,665,900",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$6,351,800",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Gerald Henderson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Chris Kaman",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,016,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Damian Lillard",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,236,286",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$20,956,974",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$22,528,747",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$24,100,520",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$25,672,293",
+      "option": "None"
+    }]
+  }, {
+    "playerName": "Meyers Leonard",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,075,879",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Maurice Harkless ",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,894,059",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Noah Vonleh",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,637,720",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,751,360",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,505,233",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "C.J. McCollum",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,525,160",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,219,579",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Mason Plumlee",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,415,520",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,328,530",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Allen Crabbe",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Tim Frazier",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,069",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,180,431",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": null
+  }, {
+    "playerName": "Pat Connaughton",
+    "contract": [{
+      "year": 2015,
+      "salary": "$625,093",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,014,746",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Luis Montero",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$1,014,746",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Cliff Alexander",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "New Orleans Pelicans",
+  "salaries": [{
+    "playerName": "Eric Gordon",
+    "contract": [{
+      "year": 2015,
+      "salary": "$15,514,031",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Tyreke Evans",
+    "contract": [{
+      "year": 2015,
+      "salary": "$10,734,586",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$10,203,755",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jrue Holiday",
+    "contract": [{
+      "year": 2015,
+      "salary": "$10,595,507",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$11,286,518",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Omer Asik",
+    "contract": [{
+      "year": 2015,
+      "salary": "$9,213,483",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$9,904,494",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$10,595,505",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$11,286,516",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$11,977,527",
+      "option": "Non-guaranteed"
+    }]
+  }, {
+    "playerName": "Ryan Anderson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,500,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Anthony Davis",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,070,730",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$20,956,974",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$22,528,747",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$24,100,520",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$25,672,293",
+      "option": "None"
+    }]
+  }, {
+    "playerName": "Alexis Ajinca",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,389,607",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,713,203",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$5,036,798",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$5,360,394",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Quincy Pondexter",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,382,023",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,617,978",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,853,931",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Norris Cole",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,036,927",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Dante Cunningham",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,850,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,978,250",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,106,500",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Alonzo Gee",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,320,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,379,400",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Luke Babbitt",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,100,602",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,227,286",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kendrick Perkins",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Toney Douglas",
+    "contract": [{
+      "year": 2015,
+      "salary": "$924,987",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Bryce Dejean-Jones",
+    "contract": [{
+      "year": 2015,
+      "salary": "$30,888",
+      "option": "None"
+    }],
+    "freeAgencyStatus": null
+  }]
+}, {
+  "teamName": "Los Angeles Lakers",
+  "salaries": [{
+    "playerName": "Kobe Bryant",
+    "contract": [{
+      "year": 2015,
+      "salary": "$25,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Roy Hibbert",
+    "contract": [{
+      "year": 2015,
+      "salary": "$15,592,216",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Louis Williams",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,698,570",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,000,006",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$7,301,441",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Nick Young",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,219,169",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,443,918",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$5,668,667",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "D&amp;apos;Angelo Russell",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,103,120",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,332,800",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$5,562,360",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$7,019,698",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Julius Randle",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,132,240",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,267,120",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$4,149,242",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Brandon Bass",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Ryan Kelly",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,724,250",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Larry Nance Jr.",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,155,600",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,207,680",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,259,640",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,272,391",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Robert Sacre",
+    "contract": [{
+      "year": 2015,
+      "salary": "$981,348",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Metta World Peace",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jordan Clarkson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Tarik Black",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Anthony Brown",
+    "contract": [{
+      "year": 2015,
+      "salary": "$700,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,014,746",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Marcelo Huertas",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "New York Knicks",
+  "salaries": [{
+    "playerName": "Carmelo Anthony",
+    "contract": [{
+      "year": 2015,
+      "salary": "$22,875,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$24,559,380",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$26,243,760",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$27,928,140",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Robin Lopez",
+    "contract": [{
+      "year": 2015,
+      "salary": "$12,650,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$13,219,250",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$13,788,500",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$14,357,750",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Arron Afflalo",
+    "contract": [{
+      "year": 2015,
+      "salary": "$8,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$8,000,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jose Calderon",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,402,812",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,708,427",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Derrick Williams",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,400,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,400,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kristaps Porzingis",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,131,720",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,317,720",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$4,503,600",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$5,697,054",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Kyle O&amp;apos;Quinn",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,750,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,918,750",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$4,087,500",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$4,256,250",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kevin Seraphin",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,814,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jerian Grant",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,021,520",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,112,480",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,203,440",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$3,263,295",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Lance Thomas",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,636,842",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Louis Amundson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,635,476",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Sasha Vujacic",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Cleanthony Early",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Langston Galloway",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Los Angeles Clippers",
+  "salaries": [{
+    "playerName": "Chris Paul",
+    "contract": [{
+      "year": 2015,
+      "salary": "$21,468,696",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$22,868,828",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$24,268,959",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "DeAndre Jordan",
+    "contract": [{
+      "year": 2015,
+      "salary": "$19,689,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$21,165,675",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$22,642,350",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$24,119,025",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Blake Griffin",
+    "contract": [{
+      "year": 2015,
+      "salary": "$18,907,725",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$20,140,838",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$21,373,950",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Lance Stephenson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$9,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$9,405,000",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "J.J. Redick",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,085,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,377,500",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jamal Crawford",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,675,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Paul Pierce",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,376,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,527,920",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,679,840",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Austin Rivers",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,110,796",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,344,106",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "C.J. Wilcox",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,159,680",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,209,600",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,183,328",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Wesley Johnson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,100,602",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,227,286",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Cole Aldrich",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,100,602",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,227,286",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Luc Richard Mbah a Moute",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Pablo Prigioni",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Branden Dawson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Jeff Ayres",
+    "contract": [{
+      "year": 2015,
+      "salary": "$55,722",
+      "option": "None"
+    }],
+    "freeAgencyStatus": null
+  }]
+}, {
+  "teamName": "Philadelphia 76ers",
+  "salaries": [{
+    "playerName": "Carl Landry",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,500,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,500,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Joel Embiid",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,626,960",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,826,160",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$6,100,266",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Jahlil Okafor",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,582,680",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,788,840",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$4,995,120",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$6,313,832",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Nerlens Noel",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,457,800",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,384,490",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Nik Stauskas",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,869,440",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,993,040",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,807,147",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Kendall Marshall",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,144,772",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,048,257",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$1,951,743",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2018,
+      "salary": "$1,855,228",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Richaun Holmes",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,074,169",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,025,831",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,014,746",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2018,
+      "salary": "$1,088,038",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Robert Covington",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,015,696",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$1,087,745",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Ishmael Smith",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Hollis Thompson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,015,696",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Isaiah Canaan",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,215,696",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": null
+  }, {
+    "playerName": "Jerami Grant",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$1,051,245",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "JaKarr Sampson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$980,431",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$1,051,245",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Elton Brand",
+    "contract": [{
+      "year": 2015,
+      "salary": "$557,221",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "T.J. McConnell",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Brooklyn Nets",
+  "salaries": [{
+    "playerName": "Joe Johnson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$24,894,863",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Brook Lopez",
+    "contract": [{
+      "year": 2015,
+      "salary": "$19,689,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$21,165,675",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$22,642,350",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Thaddeus Young",
+    "contract": [{
+      "year": 2015,
+      "salary": "$11,235,955",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,078,652",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$12,921,348",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$13,764,045",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jarrett Jack",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,300,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,300,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Bojan Bogdanovic",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,425,510",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,573,020",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Sergey Karasev",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,599,840",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,463,754",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Wayne Ellington",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,500,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": null
+  }, {
+    "playerName": "Shane Larkin",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,500,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,500,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Andrea Bargnani",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,362,897",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,551,659",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Rondae Hollis-Jefferson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,335,480",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,395,600",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,455,720",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,470,357",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Chris McCullough",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,140,240",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,191,480",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,242,840",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,243,326",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Thomas Robinson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$981,348",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,050,961",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Donald Sloan",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Willie Reed",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Markel Brown",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Sacramento Kings",
+  "salaries": [{
+    "playerName": "DeMarcus Cousins",
+    "contract": [{
+      "year": 2015,
+      "salary": "$15,851,950",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$16,957,900",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$18,063,850",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Rudy Gay",
+    "contract": [{
+      "year": 2015,
+      "salary": "$12,403,101",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$13,333,333",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$14,263,566",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Rajon Rondo",
+    "contract": [{
+      "year": 2015,
+      "salary": "$9,500,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kosta Koufos",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,700,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$8,046,500",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$8,393,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$8,739,500",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Marco Belinelli",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,060,606",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,333,333",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$6,606,061",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Darren Collison",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,013,559",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,229,454",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Willie Cauley-Stein",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,398,280",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,551,160",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,704,160",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$4,696,875",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Ben McLemore",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,156,600",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,008,882",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Omri Casspi",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,836,186",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,963,814",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Caron Butler",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,499,187",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,551,659",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "James Anderson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,015,421",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,139,123",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Quincy Acy",
+    "contract": [{
+      "year": 2015,
+      "salary": "$981,348",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,050,961",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Seth Curry",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,015,696",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Eric Moreland",
+    "contract": [{
+      "year": 2015,
+      "salary": "$845,059",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Duje Dukan",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Vince Hunter",
+    "contract": [],
+    "freeAgencyStatus": null
+  }]
+}, {
+  "teamName": "San Antonio Spurs",
+  "salaries": [{
+    "playerName": "LaMarcus Aldridge",
+    "contract": [{
+      "year": 2015,
+      "salary": "$19,689,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$20,575,005",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$21,461,010",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$22,347,015",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kawhi Leonard",
+    "contract": [{
+      "year": 2015,
+      "salary": "$16,407,500",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$17,638,063",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$18,868,625",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$20,099,188",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$21,329,750",
+      "option": "Player"
+    }]
+  }, {
+    "playerName": "Tony Parker",
+    "contract": [{
+      "year": 2015,
+      "salary": "$13,437,500",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$14,445,313",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$15,453,126",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Danny Green",
+    "contract": [{
+      "year": 2015,
+      "salary": "$10,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$10,000,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$10,000,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$10,000,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Boris Diaw",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,500,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,000,000",
+      "option": "Non-guaranteed"
+    }, {
+      "year": 2017,
+      "salary": "$7,500,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Tim Duncan",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,250,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,600,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Patrick Mills",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,578,947",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,578,947",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Manu Ginobili",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,814,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,025,050",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "David West",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,499,187",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,551,659",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Boban Marjanovic",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,200,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Kyle Anderson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,142,880",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,192,080",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,151,704",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Rasual Butler",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Matt Bonner",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Ray McCallum",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Jonathon Simmons",
+    "contract": [{
+      "year": 2015,
+      "salary": "$525,093",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Toronto Raptors",
+  "salaries": [{
+    "playerName": "DeMarre Carroll",
+    "contract": [{
+      "year": 2015,
+      "salary": "$13,600,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$14,200,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$14,800,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$15,400,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kyle Lowry",
+    "contract": [{
+      "year": 2015,
+      "salary": "$12,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,000,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$12,000,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "DeMar DeRozan",
+    "contract": [{
+      "year": 2015,
+      "salary": "$10,050,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$10,050,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Cory Joseph",
+    "contract": [{
+      "year": 2015,
+      "salary": "$7,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$7,315,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$7,630,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$7,945,000",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Patrick Patterson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$6,268,675",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$6,050,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jonas Valanciunas",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,660,482",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$14,382,022",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$15,460,674",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$16,539,326",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$17,617,978",
+      "option": "Player"
+    }]
+  }, {
+    "playerName": "Terrence Ross",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,553,917",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$9,767,442",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$10,500,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$11,232,558",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Luis Scola",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,900,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Bismack Biyombo",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,814,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,940,630",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "James Johnson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,500,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Lucas  Nogueira",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,842,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,921,320",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,947,305",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Bruno Caboclo",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,524,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,589,640",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,451,225",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Delon Wright",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,509,360",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,577,280",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,645,200",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,536,898",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Anthony Bennett",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Norman Powell",
+    "contract": [{
+      "year": 2015,
+      "salary": "$650,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$874,636",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,014,746",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Oklahoma City Thunder",
+  "salaries": [{
+    "playerName": "Kevin Durant",
+    "contract": [{
+      "year": 2015,
+      "salary": "$20,158,622",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Russell Westbrook",
+    "contract": [{
+      "year": 2015,
+      "salary": "$16,744,218",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$17,769,374",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Enes  Kanter",
+    "contract": [{
+      "year": 2015,
+      "salary": "$16,407,500",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$17,145,838",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$17,884,175",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$18,622,513",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Serge Ibaka",
+    "contract": [{
+      "year": 2015,
+      "salary": "$12,250,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,250,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Dion Waiters",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,138,430",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Kyle Singler",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,347,826",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,673,913",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$5,000,000",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$5,326,087",
+      "option": "None"
+    }, {
+      "year": 2019,
+      "salary": "$5,652,174",
+      "option": "Team"
+    }]
+  }, {
+    "playerName": "Steve Novak",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,750,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Nick Collison",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,750,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,750,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Anthony Morrow",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,344,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,488,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "D.J. Augustin",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Steve Adams",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,279,040",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,140,517",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Cameron Payne",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,021,520",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,112,480",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,203,440",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$3,263,295",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Mitch McGary",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,463,040",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,526,040",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,430,982",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Andre Roberson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,210,800",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,183,072",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Josh Huestis",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,140,240",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,191,480",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,242,840",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$2,243,326",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}, {
+  "teamName": "Utah Jazz",
+  "salaries": [{
+    "playerName": "Gordon Hayward",
+    "contract": [{
+      "year": 2015,
+      "salary": "$15,409,570",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$16,073,140",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$16,736,710",
+      "option": "Player"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Derrick Favors",
+    "contract": [{
+      "year": 2015,
+      "salary": "$12,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$11,050,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$12,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Alec Burks",
+    "contract": [{
+      "year": 2015,
+      "salary": "$9,463,484",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$10,154,495",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$10,845,506",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$11,536,515",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Trevor Booker",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,775,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Dante Exum",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,777,720",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,940,320",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$4,992,385",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Tibor Pleiss",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,900,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,000,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$3,100,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Trey Burke",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,658,240",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,386,598",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Trey Lyles",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,239,800",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,340,600",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,441,400",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$3,364,249",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Joe Ingles",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,150,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,246,750",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Rodney Hood",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,348,440",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,406,520",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,386,864",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Rudy Gobert",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,175,880",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,121,288",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Christapher Johnson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$981,348",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,050,961",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jeff Withey",
+    "contract": [{
+      "year": 2015,
+      "salary": "$947,276",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$1,015,696",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Raul Neto",
+    "contract": [{
+      "year": 2015,
+      "salary": "$900,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$937,800",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$1,014,746",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "J.J. O&amp;apos;Brien",
+    "contract": [{
+      "year": 2015,
+      "salary": "$30,888",
+      "option": "None"
+    }],
+    "freeAgencyStatus": null
+  }]
+}, {
+  "teamName": "Washington Wizards",
+  "salaries": [{
+    "playerName": "John Wall",
+    "contract": [{
+      "year": 2015,
+      "salary": "$15,851,950",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$16,957,900",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$18,063,850",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$19,169,800",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Nene Hilario",
+    "contract": [{
+      "year": 2015,
+      "salary": "$13,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Marcin Gortat",
+    "contract": [{
+      "year": 2015,
+      "salary": "$11,217,391",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$12,000,000",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$12,782,609",
+      "option": "None"
+    }, {
+      "year": 2018,
+      "salary": "$13,565,218",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Bradley Beal",
+    "contract": [{
+      "year": 2015,
+      "salary": "$5,694,674",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Otto Porter Jr.",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,662,960",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$5,893,981",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Kris Humphries",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,440,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$4,630,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jared Dudley",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,250,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Alan Anderson",
+    "contract": [{
+      "year": 2015,
+      "salary": "$4,000,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Drew Gooden",
+    "contract": [{
+      "year": 2015,
+      "salary": "$3,300,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$3,547,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Ramon Sessions",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,170,465",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Gary Neal",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,139,000",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "DeJaun Blair",
+    "contract": [{
+      "year": 2015,
+      "salary": "$2,000,000",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,000,000",
+      "option": "Non-guaranteed"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Kelly Oubre",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,920,240",
+      "option": "None"
+    }, {
+      "year": 2016,
+      "salary": "$2,006,640",
+      "option": "None"
+    }, {
+      "year": 2017,
+      "salary": "$2,093,040",
+      "option": "Team"
+    }, {
+      "year": 2018,
+      "salary": "$3,208,630",
+      "option": "Team"
+    }],
+    "freeAgencyStatus": "RFA"
+  }, {
+    "playerName": "Garrett Temple",
+    "contract": [{
+      "year": 2015,
+      "salary": "$1,100,602",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "UFA"
+  }, {
+    "playerName": "Jarell Eddie",
+    "contract": [{
+      "year": 2015,
+      "salary": "$556,745",
+      "option": "None"
+    }],
+    "freeAgencyStatus": "RFA"
+  }]
+}]

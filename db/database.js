@@ -8,7 +8,7 @@ mongoose.connection.on('connected', function () {
   console.log('Connection operational.');
 });
 
-mongoose.connection.on('error', function () {
+mongoose.connection.on('error', function (error) {
   console.log('Error: ' + error);
 });
 
