@@ -25,3 +25,4 @@ var Player = new Schema({
 // Add country, school, birthplace so can map data
 
 module.exports.Player = mongoose.model('Player', Player);
+module.exports.Contract = mongoose.model('Contract', Contract);

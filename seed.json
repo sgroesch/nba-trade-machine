@@ -1,0 +1,5 @@
+{
+	"undefined": "localhost/nba",
+	"dev": "localhost/nba",
+	"prod": "localhost/nba"
+}

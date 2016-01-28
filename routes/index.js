@@ -11,7 +11,7 @@ router.get('/public', function(req, res, next) {
 });
 
 router.get('/data', function(req, res, next) {
-  res.render('data', { user: req.user });
+  res.render('data', { user: req.user, pageHeader: 'NBA Data' });
 });
 
 module.exports = router;

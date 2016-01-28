@@ -5,15 +5,99 @@
     <title></title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css" media="screen" title="no title" charset="utf-8">
     <link rel="stylesheet" href="stylesheets/style.css" media="screen" title="no title" charset="utf-8">
-    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
+    <script type="text/javascript" src="/javascripts/styling.js"></script>
   </head>
   <body>
-    <nav>
-      <li>Trade Checker</li>
-      <li>Public</li>
-      <li>Data</li>
-      <li>Account Management</li>
-    </nav>
+    <div class="navbar-fixed">
+      <nav class="orange">
+          <div class="nav-wrapper container">
+              <a href="#!" class="brand-logo">{{pageHeader}}</a>
+              <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+              <ul class="right hide-on-med-and-down">
+                  <li><a href="#modalLogin" class="modal-trigger"><i class="mdi-action-perm-identity"></i></a></li>
+                  <li><a href="#"><i class="mdi-navigation-refresh"></i></a></li>
+                  <li><a href="#"><i class="mdi-navigation-more-vert"></i></a></li>
+              </ul>
+              <ul class="side-nav" id="mobile-demo">
+                  <li><a href="#">Trade Checker</a></li>
+                  <li><a href="#">Public</a></li>
+                  <li><a href="#">Data</a></li>
+                  <li><a href="#modalLogin" class="modal-trigger">Account</a></li>
+              </ul>
+          </div>
+      </nav>
+    </div>
+    <div id="modalLogin" class="modal">
+      <div class="modal-content">
+        {{#if user}}
+          <h2 class="center-align">Welcome, {{user.username}}</h2>
+          <div class="center-align">
+            <div class="divider"></div>
+            <h5 class="center-align welcomePadding">{{user.email}}</h5><br>
+            <a href="/accounts/logout" class="waves-effect waves-blue blue btn btn-flat">Logout</a>
+          </div>
+        {{else}}
+          <div id="loginScreen">
+            <h2 class="center-align">Login</h2>
+            <div class="center-align">
+                <div class="divider"></div>
+                <form class="col s12" action="/accounts/login" method="post">
+                    <div class="row center-align">
+                        <div class="input-field col m10 offset-m1 blue-text">
+                            <i class="mdi-action-account-circle prefix"></i>
+                            <input id="icon_prefix" type="text" class="validate" name="username">
+                            <label for="icon_prefix">Username</label>
+                        </div>
+                        <div class="input-field col m10 offset-m1 blue-text ">
+                            <i class="mdi-action-lock-open prefix"></i>
+                            <input id="icon_password" type="password" class="validate" name="password">
+                            <label for="icon_password">Password</label>
+                        </div>
+                    </div>
+                  <div class="divider"></div><br>
+                  <div class="center-align">
+                      <a href="#" class="btn btn-flat white modal-close cancelButton">Cancel</a> &nbsp;
+                      <input type="submit" value="Login" class="waves-effect waves-blue blue btn btn-flat">
+                  </div>
+                </form>
+                <p>Don't have an account?&nbsp;&nbsp;&nbsp;&nbsp;<a id="registerLoginBtn" href="#" class="red btn btn-flat">Register</a></p>
+            </div>
+          </div>
+          <div id="registerScreen">
+            <h2 class="center-align">Register</h2>
+            <div class="center-align">
+                <div class="divider"></div>
+                <form class="col s12" action="/accounts/register" method="post">
+                    <div class="row center-align">
+                        <div class="input-field col m10 offset-m1 blue-text">
+                            <i class="mdi-action-account-circle prefix"></i>
+                            <input id="icon_prefix" type="text" class="validate" name="username">
+                            <label for="icon_prefix">Username</label>
+                        </div>
+                        <div class="input-field col m10 offset-m1 blue-text ">
+                            <i class="mdi-action-lock-open prefix"></i>
+                            <input id="icon_password" type="password" class="validate" name="password">
+                            <label for="icon_password">Password</label>
+                        </div>
+                        <div class="input-field col m10 offset-m1 blue-text ">
+                            <i class="mdi-content-inbox prefix"></i>
+                            <input id="icon_email" type="email" class="validate" name="email">
+                            <label for="icon_email">Email</label>
+                        </div>
+                    </div>
+                  <div class="divider"></div><br>
+                  <div class="center-align">
+                      <a href="#" class="btn btn-flat white modal-close cancelButton">Cancel</a> &nbsp;
+                      <input type="submit" value="Register" class="waves-effect waves-blue blue btn btn-flat">
+                  </div>
+                </form>
+            </div>
+          </div>
+        {{/if}}
+      </div>
+    </div>
 
     <div id="bodyContainer">
       {{{body}}}

@@ -4,11 +4,6 @@ var LocalStrategy = require('passport-local').Strategy;
 var Models = require('../models/Account');
 var router = express.Router();
 
-/* GET users listing. */
-router.get('/', function(req, res, next) {
-  res.render('account', { user: req.user });
-});
-
 router.post('/login', passport.authenticate('local', { failureRedirect: '/' }),
   function(req, res) {
     res.redirect('/');
@@ -16,15 +11,12 @@ router.post('/login', passport.authenticate('local', { failureRedirect: '/' }),
 );
 
 router.post('/register', function(req, res){
-
-  // Redo in React
-
-  // var checkUsername = checkLength(req.body.username, 16);
-  // var checkEmail = checkLength(req.body.email, 50);
-  // var checkPassword = checkLength(req.body.password, 16);
-  // if (checkUsername == false || checkEmail == false || checkPassword == false) {
-  //   return res.redirect('/');
-  // }
+  var checkUsername = checkLength(req.body.username, 16);
+  var checkEmail = checkLength(req.body.email, 50);
+  var checkPassword = checkLength(req.body.password, 16);
+  if (checkUsername == false || checkEmail == false || checkPassword == false) {
+    return res.redirect('/');
+  }
   Models.Account.register(new Models.Account({
       username: req.body.username,
       email: req.body.email
