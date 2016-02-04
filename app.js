@@ -11,6 +11,9 @@ require('./db/database');
 
 var routes = require('./routes/index');
 var accounts = require('./routes/accounts');
+var api = require('./routes/api');
+var data = require('./routes/data');
+var trades = require('./routes/trades');
 
 var app = express();
 
@@ -36,7 +39,7 @@ app.set('view engine', 'hbs');
 // app.set('view engine', 'hbs');
 
 // uncomment after placing your favicon in /public
-//app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
+app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -46,6 +49,9 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
 app.use('/accounts', accounts);
+app.use('/api', api);
+app.use('/data', data);
+app.use('/trades', trades);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

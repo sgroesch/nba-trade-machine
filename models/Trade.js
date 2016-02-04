@@ -9,23 +9,32 @@ var Schema = mongoose.Schema;
 //   downvotedIds [Number]
 // })
 
-var Teamtrade = new Schema({
-  teamName: String,
-  teamId: Number,
-  playersIn: [Number],
-  playersOut: [Number],
-  picksIn: [],
-  picksOut: []
-})
-
 var Trade = new Schema({
   userId: Number,
+  author: String,
   public: Boolean,
-  teams: [Teamtrade]
-
-  playersIn: [Playermove],
-  playersOut: [Playermove],
-  comments: [Comment],
+  teams: [{
+    teamName: String,
+    teamId: Number,
+    playersIn: [Number],
+    playersOut: [Number],
+    picksIn: [{
+      from: Number,
+      type: String,
+      year: Number,
+      round: Number,
+      originalOwner: String,
+      description: String
+    }],
+    picksOut: [{
+      to: Number,
+      type: String,
+      year: Number,
+      round: Number,
+      originalOwner: String,
+      description: String
+    }]
+  }]
 });
 
 module.exports.Trade = mongoose.model('Trade', Trade);

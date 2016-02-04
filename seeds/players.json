@@ -1,0 +1,8125 @@
+[{
+  "playerId": 203112,
+  "name": "Quincy Acy",
+  "firstName": "Quincy",
+  "lastName": "Acy",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 981348,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1050961,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203919,
+  "name": "Jordan Adams",
+  "firstName": "Jordan",
+  "lastName": "Adams",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1404600,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1465080,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2410057,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203500,
+  "name": "Steven Adams",
+  "firstName": "Steven",
+  "lastName": "Adams",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2279040,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3140517,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201167,
+  "name": "Arron Afflalo",
+  "firstName": "Arron",
+  "lastName": "Afflalo",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 8000000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 201582,
+  "name": "Alexis Ajinca",
+  "firstName": "Alexis",
+  "lastName": "Ajinca",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4389607,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4713203,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 5036798,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 5360394,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202332,
+  "name": "Cole Aldrich",
+  "firstName": "Cole",
+  "lastName": "Aldrich",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1100602,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1227286,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 200746,
+  "name": "LaMarcus Aldridge",
+  "firstName": "LaMarcus",
+  "lastName": "Aldridge",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 19689000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 20575005,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 21461010,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 22347015,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 1626146,
+  "name": "Cliff Alexander",
+  "firstName": "Cliff",
+  "lastName": "Alexander",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202730,
+  "name": "Lavoy Allen",
+  "firstName": "Lavoy",
+  "lastName": "Allen",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2754,
+  "name": "Tony Allen",
+  "firstName": "Tony",
+  "lastName": "Allen",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5168539,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5505618,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202329,
+  "name": "Al-Farouq Aminu",
+  "firstName": "Al-Farouq",
+  "lastName": "Aminu",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8042895,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7680965,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 7319035,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 6957105,
+    "option": "None"
+  }]
+}, {
+  "playerId": 200811,
+  "name": "Lou Amundson",
+  "firstName": "Lou",
+  "lastName": "Amundson",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2365,
+  "name": "Chris Andersen",
+  "firstName": "Chris",
+  "lastName": "Andersen",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101187,
+  "name": "Alan Anderson",
+  "firstName": "Alan",
+  "lastName": "Anderson",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202341,
+  "name": "James Anderson",
+  "firstName": "James",
+  "lastName": "Anderson",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1015421,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1139123,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 1626147,
+  "name": "Justin Anderson",
+  "firstName": "Justin",
+  "lastName": "Anderson",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1449000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1514160,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1579440,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2516048,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203937,
+  "name": "Kyle Anderson",
+  "firstName": "Kyle",
+  "lastName": "Anderson",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1142880,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1192080,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2151704,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201583,
+  "name": "Ryan Anderson",
+  "firstName": "Ryan",
+  "lastName": "Anderson",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8500000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203507,
+  "name": "Giannis Antetokounmpo",
+  "firstName": "Giannis",
+  "lastName": "Antetokounmpo",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1953960,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2995421,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2546,
+  "name": "Carmelo Anthony",
+  "firstName": "Carmelo",
+  "lastName": "Anthony",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 22875000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 24559380,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 26243760,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 27928140,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201202,
+  "name": "Joel Anthony",
+  "firstName": "Joel",
+  "lastName": "Anthony",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2500000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2500000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 2772,
+  "name": "Trevor Ariza",
+  "firstName": "Trevor",
+  "lastName": "Ariza",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8193030,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7806971,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 7420912,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201589,
+  "name": "Darrell Arthur",
+  "firstName": "Darrell",
+  "lastName": "Arthur",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2814000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2940630,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 201600,
+  "name": "Omer Asik",
+  "firstName": "Omer",
+  "lastName": "Asik",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "contract": [{
+    "year": 2015,
+    "salary": 9213483,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 9904494,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 10595505,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 11286516,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 11977527,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 201571,
+  "name": "DJ Augustin",
+  "firstName": "DJ",
+  "lastName": "Augustin",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202337,
+  "name": "Luke Babbitt",
+  "firstName": "Luke",
+  "lastName": "Babbitt",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1100602,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1227286,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203946,
+  "name": "Cameron Bairstow",
+  "firstName": "Cameron",
+  "lastName": "Bairstow",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 980431,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 2571,
+  "name": "Leandro Barbosa",
+  "firstName": "Leandro",
+  "lastName": "Barbosa",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2500000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 200826,
+  "name": "Jose Juan Barea",
+  "firstName": "Jose Juan",
+  "lastName": "Barea",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 200745,
+  "name": "Andrea Bargnani",
+  "firstName": "Andrea",
+  "lastName": "Bargnani",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1362897,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1551659,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203084,
+  "name": "Harrison Barnes",
+  "firstName": "Harrison",
+  "lastName": "Barnes",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3873398,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2440,
+  "name": "Matt Barnes",
+  "firstName": "Matt",
+  "lastName": "Barnes",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3542500,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203115,
+  "name": "Will Barton",
+  "firstName": "Will",
+  "lastName": "Barton",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3533333,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3533333,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3533333,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101138,
+  "name": "Brandon Bass",
+  "firstName": "Brandon",
+  "lastName": "Bass",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201587,
+  "name": "Nicolas Batum",
+  "firstName": "Nicolas",
+  "lastName": "Batum",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 13125307,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201573,
+  "name": "Jerryd Bayless",
+  "firstName": "Jerryd",
+  "lastName": "Bayless",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203382,
+  "name": "Aron Baynes",
+  "firstName": "Aron",
+  "lastName": "Baynes",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6500000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6500000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 6500000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203145,
+  "name": "Kent Bazemore",
+  "firstName": "Kent",
+  "lastName": "Bazemore",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203078,
+  "name": "Bradley Beal",
+  "firstName": "Bradley",
+  "lastName": "Beal",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5694674,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201158,
+  "name": "Marco Belinelli",
+  "firstName": "Marco",
+  "lastName": "Belinelli",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6060606,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6333333,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 6606061,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203461,
+  "name": "Anthony Bennett",
+  "firstName": "Anthony",
+  "lastName": "Bennett",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201976,
+  "name": "Patrick Beverley",
+  "firstName": "Patrick",
+  "lastName": "Beverley",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6486486,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6000000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 5513513,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 5027027,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 202687,
+  "name": "Bismack Biyombo",
+  "firstName": "Bismack",
+  "lastName": "Biyombo",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2814000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2940630,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202357,
+  "name": "Nemanja Bjelica",
+  "firstName": "Nemanja",
+  "lastName": "Bjelica",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3950001,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3800000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3949999,
+    "option": "None"
+  }]
+}, {
+  "playerId": 204028,
+  "name": "Tarik Black",
+  "firstName": "Tarik",
+  "lastName": "Black",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201971,
+  "name": "DeJuan Blair",
+  "firstName": "DeJuan",
+  "lastName": "Blair",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2581,
+  "name": "Steve Blake",
+  "firstName": "Steve",
+  "lastName": "Blake",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2170465,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202339,
+  "name": "Eric Bledsoe",
+  "firstName": "Eric",
+  "lastName": "Bledsoe",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 13500000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 14000000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 14500000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 15000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202711,
+  "name": "Bojan Bogdanovic",
+  "firstName": "Bojan",
+  "lastName": "Bogdanovic",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3425510,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3573020,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101106,
+  "name": "Andrew Bogut",
+  "firstName": "Andrew",
+  "lastName": "Bogut",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 13800000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12681081,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2588,
+  "name": "Matt Bonner",
+  "firstName": "Matt",
+  "lastName": "Bonner",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626164,
+  "name": "Devin Booker",
+  "firstName": "Devin",
+  "lastName": "Booker",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2127840,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2223600,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2319360,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 3314365,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 202344,
+  "name": "Trevor Booker",
+  "firstName": "Trevor",
+  "lastName": "Booker",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4775000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2547,
+  "name": "Chris Bosh",
+  "firstName": "Chris",
+  "lastName": "Bosh",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 22192730,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 23741060,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 25289390,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 26837720,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202340,
+  "name": "Avery Bradley",
+  "firstName": "Avery",
+  "lastName": "Bradley",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 7730337,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 8269663,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 8808989,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201147,
+  "name": "Corey Brewer",
+  "firstName": "Corey",
+  "lastName": "Brewer",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8229375,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7612172,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 7579366,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201166,
+  "name": "Aaron Brooks",
+  "firstName": "Aaron",
+  "lastName": "Brooks",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2250000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626148,
+  "name": "Anthony Brown",
+  "firstName": "Anthony",
+  "lastName": "Brown",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 700000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1014746,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203900,
+  "name": "Markel Brown",
+  "firstName": "Markel",
+  "lastName": "Brown",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }]
+}, {
+  "playerId": 977,
+  "name": "Kobe Bryant",
+  "firstName": "Kobe",
+  "lastName": "Bryant",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 25000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201978,
+  "name": "Chase Budinger",
+  "firstName": "Chase",
+  "lastName": "Budinger",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203493,
+  "name": "Reggie Bullock",
+  "firstName": "Reggie",
+  "lastName": "Bullock",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1252440,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2255644,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203504,
+  "name": "Trey Burke",
+  "firstName": "Trey",
+  "lastName": "Burke",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2658240,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3386598,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202692,
+  "name": "Alec Burks",
+  "firstName": "Alec",
+  "lastName": "Burks",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 9463484,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 10154495,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 10845506,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 11536515,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2406,
+  "name": "Caron Butler",
+  "firstName": "Caron",
+  "lastName": "Butler",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1499187,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1551659,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 202710,
+  "name": "Jimmy Butler",
+  "firstName": "Jimmy",
+  "lastName": "Butler",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "contract": [{
+    "year": 2015,
+    "salary": 16407500,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 17552209,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 18696918,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 19841624,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 19841627,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 2446,
+  "name": "Rasual Butler",
+  "firstName": "Rasual",
+  "lastName": "Butler",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203998,
+  "name": "Bruno Caboclo",
+  "firstName": "Bruno",
+  "lastName": "Caboclo",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1524000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1589640,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2451225,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 101181,
+  "name": "Jose Calderon",
+  "firstName": "Jose",
+  "lastName": "Calderon",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 7402812,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7708427,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203484,
+  "name": "Kentavious Caldwell-Pope",
+  "firstName": "Kentavious",
+  "lastName": "Caldwell-Pope",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203477,
+  "name": "Isaiah Canaan",
+  "firstName": "Isaiah",
+  "lastName": "Canaan",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": null,
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1215696,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203991,
+  "name": "Clint Capela",
+  "firstName": "Clint",
+  "lastName": "Capela",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1242720,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1296240,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2334528,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201960,
+  "name": "DeMarre Carroll",
+  "firstName": "DeMarre",
+  "lastName": "Carroll",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 13600000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 14200000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 14800000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 15400000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1713,
+  "name": "Vince Carter",
+  "firstName": "Vince",
+  "lastName": "Carter",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4088019,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4264057,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203487,
+  "name": "Michael Carter-Williams",
+  "firstName": "Michael",
+  "lastName": "Carter-Williams",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2399040,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3183526,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201956,
+  "name": "Omri Casspi",
+  "firstName": "Omri",
+  "lastName": "Casspi",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2836186,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2963814,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626161,
+  "name": "Willie Cauley-Stein",
+  "firstName": "Willie",
+  "lastName": "Cauley-Stein",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3398280,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3551160,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3704160,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 4696875,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201596,
+  "name": "Mario Chalmers",
+  "firstName": "Mario",
+  "lastName": "Chalmers",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4300000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2199,
+  "name": "Tyson Chandler",
+  "firstName": "Tyson",
+  "lastName": "Chandler",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 13000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12415000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 13000000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 13585000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201163,
+  "name": "Wilson Chandler",
+  "firstName": "Wilson",
+  "lastName": "Chandler",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 10449438,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 11233146,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 12016854,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 12800562,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626176,
+  "name": "Rakeem Christmas",
+  "firstName": "Rakeem",
+  "lastName": "Christmas",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1007026,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1052342,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1097658,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2018,
+    "salary": 1142974,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203546,
+  "name": "Ian Clark",
+  "firstName": "Ian",
+  "lastName": "Clark",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203903,
+  "name": "Jordan Clarkson",
+  "firstName": "Jordan",
+  "lastName": "Clarkson",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202708,
+  "name": "Norris Cole",
+  "firstName": "Norris",
+  "lastName": "Cole",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3036927,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201954,
+  "name": "Darren Collison",
+  "firstName": "Darren",
+  "lastName": "Collison",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5013559,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5229454,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2555,
+  "name": "Nick Collison",
+  "firstName": "Nick",
+  "lastName": "Collison",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3750000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3750000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201144,
+  "name": "Mike Conley",
+  "firstName": "Mike",
+  "lastName": "Conley",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 9588426,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626192,
+  "name": "Pat Connaughton",
+  "firstName": "Pat",
+  "lastName": "Connaughton",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 625093,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1014746,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203142,
+  "name": "Chris Copeland",
+  "firstName": "Chris",
+  "lastName": "Copeland",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1150000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203955,
+  "name": "Bryce Cotton",
+  "firstName": "Bryce",
+  "lastName": "Cotton",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202326,
+  "name": "DeMarcus Cousins",
+  "firstName": "DeMarcus",
+  "lastName": "Cousins",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 15851950,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 16957900,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 18063850,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203496,
+  "name": "Robert Covington",
+  "firstName": "Robert",
+  "lastName": "Covington",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1015696,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 1087745,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203459,
+  "name": "Allen Crabbe",
+  "firstName": "Allen",
+  "lastName": "Crabbe",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2037,
+  "name": "Jamal Crawford",
+  "firstName": "Jamal",
+  "lastName": "Crawford",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5675000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203109,
+  "name": "Jae Crowder",
+  "firstName": "Jae",
+  "lastName": "Crowder",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "contract": [{
+    "year": 2015,
+    "salary": 6086957,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6543478,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 7000000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 7456522,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 7913043,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201967,
+  "name": "Dante Cunningham",
+  "firstName": "Dante",
+  "lastName": "Cunningham",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2850000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2978250,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3106500,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203099,
+  "name": "Jared Cunningham",
+  "firstName": "Jared",
+  "lastName": "Cunningham",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 981348,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203552,
+  "name": "Seth Curry",
+  "firstName": "Seth",
+  "lastName": "Curry",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1015696,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 201939,
+  "name": "Stephen Curry",
+  "firstName": "Stephen",
+  "lastName": "Curry",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 11370786,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12112359,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203584,
+  "name": "Troy Daniels",
+  "firstName": "Troy",
+  "lastName": "Daniels",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203076,
+  "name": "Anthony Davis",
+  "firstName": "Anthony",
+  "lastName": "Davis",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "contract": [{
+    "year": 2015,
+    "salary": 7070730,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 20956974,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 22528747,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 24100520,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 25672293,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202334,
+  "name": "Ed Davis",
+  "firstName": "Ed",
+  "lastName": "Davis",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6980000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6665900,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 6351800,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626183,
+  "name": "Branden Dawson",
+  "firstName": "Branden",
+  "lastName": "Dawson",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 201942,
+  "name": "DeMar DeRozan",
+  "firstName": "DeMar",
+  "lastName": "DeRozan",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 10050000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 10050000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203473,
+  "name": "Dewayne Dedmon",
+  "firstName": "Dewayne",
+  "lastName": "Dedmon",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626155,
+  "name": "Sam Dekker",
+  "firstName": "Sam",
+  "lastName": "Dekker",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1646400,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1720560,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1794600,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2760095,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203521,
+  "name": "Matthew Dellavedova",
+  "firstName": "Matthew",
+  "lastName": "Dellavedova",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2736,
+  "name": "Luol Deng",
+  "firstName": "Luol",
+  "lastName": "Deng",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 10151612,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2564,
+  "name": "Boris Diaw",
+  "firstName": "Boris",
+  "lastName": "Diaw",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 7500000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7000000,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 7500000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203476,
+  "name": "Gorgui Dieng",
+  "firstName": "Gorgui",
+  "lastName": "Dieng",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1474440,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2348783,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203915,
+  "name": "Spencer Dinwiddie",
+  "firstName": "Spencer",
+  "lastName": "Dinwiddie",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 980431,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 201962,
+  "name": "Toney Douglas",
+  "firstName": "Toney",
+  "lastName": "Douglas",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 924987,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201609,
+  "name": "Goran Dragic",
+  "firstName": "Goran",
+  "lastName": "Dragic",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "contract": [{
+    "year": 2015,
+    "salary": 14783000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 15891725,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 17000450,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 18109175,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 19217900,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203083,
+  "name": "Andre Drummond",
+  "firstName": "Andre",
+  "lastName": "Drummond",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3272090,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201162,
+  "name": "Jared Dudley",
+  "firstName": "Jared",
+  "lastName": "Dudley",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4250000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626251,
+  "name": "Duje Dukan",
+  "firstName": "Duje",
+  "lastName": "Dukan",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 1495,
+  "name": "Tim Duncan",
+  "firstName": "Tim",
+  "lastName": "Duncan",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5250000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5600000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 2399,
+  "name": "Mike Dunleavy",
+  "firstName": "Mike",
+  "lastName": "Dunleavy",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4500000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4837500,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 5175000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 201142,
+  "name": "Kevin Durant",
+  "firstName": "Kevin",
+  "lastName": "Durant",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 20158622,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203921,
+  "name": "Cleanthony Early",
+  "firstName": "Cleanthony",
+  "lastName": "Early",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201961,
+  "name": "Wayne Ellington",
+  "firstName": "Wayne",
+  "lastName": "Ellington",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": null,
+  "contract": [{
+    "year": 2015,
+    "salary": 1500000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101145,
+  "name": "Monta Ellis",
+  "firstName": "Monta",
+  "lastName": "Ellis",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 10300000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 10763500,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 11227000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 11690500,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203954,
+  "name": "Joel Embiid",
+  "firstName": "Joel",
+  "lastName": "Embiid",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4626960,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4826160,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 6100266,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203516,
+  "name": "James Ennis",
+  "firstName": "James",
+  "lastName": "Ennis",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 980431,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203898,
+  "name": "Tyler Ennis",
+  "firstName": "Tyler",
+  "lastName": "Ennis",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1662360,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1733880,
+    "option": "Team"
+  }, {
+    "year": 2017,
+    "salary": 2666707,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 202379,
+  "name": "Jeremy Evans",
+  "firstName": "Jeremy",
+  "lastName": "Evans",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1100602,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1227286,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201936,
+  "name": "Tyreke Evans",
+  "firstName": "Tyreke",
+  "lastName": "Evans",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 10734586,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 10203755,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203957,
+  "name": "Dante Exum",
+  "firstName": "Dante",
+  "lastName": "Exum",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3777720,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3940320,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 4992385,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203105,
+  "name": "Festus Ezeli",
+  "firstName": "Festus",
+  "lastName": "Ezeli",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2008748,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202702,
+  "name": "Kenneth Faried",
+  "firstName": "Kenneth",
+  "lastName": "Faried",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 11235955,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12078652,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 12921348,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 13764045,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202324,
+  "name": "Derrick Favors",
+  "firstName": "Derrick",
+  "lastName": "Favors",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 12000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 11050000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 12000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626245,
+  "name": "Cristiano Felicio",
+  "firstName": "Cristiano",
+  "lastName": "Felicio",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 101109,
+  "name": "Raymond Felton",
+  "firstName": "Raymond",
+  "lastName": "Felton",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3950313,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203095,
+  "name": "Evan Fournier",
+  "firstName": "Evan",
+  "lastName": "Fournier",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2288204,
+    "option": "None"
+  }]
+}, {
+  "playerId": 200751,
+  "name": "Randy Foye",
+  "firstName": "Randy",
+  "lastName": "Foye",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3135000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 204025,
+  "name": "Tim Frazier",
+  "firstName": "Tim",
+  "lastName": "Frazier",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": null,
+  "contract": [{
+    "year": 2015,
+    "salary": 845069,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1180431,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 202690,
+  "name": "Jimmer Fredette",
+  "firstName": "Jimmer",
+  "lastName": "Fredette",
+  "teamId": 0,
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101112,
+  "name": "Channing Frye",
+  "firstName": "Channing",
+  "lastName": "Frye",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8193029,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7806971,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 7420912,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201568,
+  "name": "Danilo Gallinari",
+  "firstName": "Danilo",
+  "lastName": "Gallinari",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 14000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 15050000,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 16100000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 204038,
+  "name": "Langston Galloway",
+  "firstName": "Langston",
+  "lastName": "Galloway",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }]
+}, {
+  "playerId": 708,
+  "name": "Kevin Garnett",
+  "firstName": "Kevin",
+  "lastName": "Garnett",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8500000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 8000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201188,
+  "name": "Marc Gasol",
+  "firstName": "Marc",
+  "lastName": "Gasol",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "contract": [{
+    "year": 2015,
+    "salary": 19689000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 21165675,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 22642350,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 24119025,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 25595700,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 2200,
+  "name": "Pau Gasol",
+  "firstName": "Pau",
+  "lastName": "Gasol",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 7448760,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7769520,
+    "option": "None"
+  }]
+}, {
+  "playerId": 200752,
+  "name": "Rudy Gay",
+  "firstName": "Rudy",
+  "lastName": "Gay",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 12403101,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 13333333,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 14263566,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 202087,
+  "name": "Alonzo Gee",
+  "firstName": "Alonzo",
+  "lastName": "Gee",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1320000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1379400,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202331,
+  "name": "Paul George",
+  "firstName": "Paul",
+  "lastName": "George",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 17120106,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 18314532,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 19508958,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 20703384,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201959,
+  "name": "Taj Gibson",
+  "firstName": "Taj",
+  "lastName": "Gibson",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8500000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 8950000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1938,
+  "name": "Manu Ginobili",
+  "firstName": "Manu",
+  "lastName": "Ginobili",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2814000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3025050,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203497,
+  "name": "Rudy Gobert",
+  "firstName": "Rudy",
+  "lastName": "Gobert",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1175880,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2121288,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2400,
+  "name": "Drew Gooden",
+  "firstName": "Drew",
+  "lastName": "Gooden",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3300000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3547000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203462,
+  "name": "Archie Goodwin",
+  "firstName": "Archie",
+  "lastName": "Goodwin",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1160160,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2094089,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203932,
+  "name": "Aaron Gordon",
+  "firstName": "Aaron",
+  "lastName": "Gordon",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4171680,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4351320,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 5504420,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201569,
+  "name": "Eric Gordon",
+  "firstName": "Eric",
+  "lastName": "Gordon",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 15514031,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101162,
+  "name": "Marcin Gortat",
+  "firstName": "Marcin",
+  "lastName": "Gortat",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 11217391,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12000000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 12782609,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 13565218,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203924,
+  "name": "Jerami Grant",
+  "firstName": "Jerami",
+  "lastName": "Grant",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 980431,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 1051245,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 1626170,
+  "name": "Jerian Grant",
+  "firstName": "Jerian",
+  "lastName": "Grant",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2021520,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2112480,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2203440,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 3263295,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201980,
+  "name": "Danny Green",
+  "firstName": "Danny",
+  "lastName": "Green",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 10000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 10000000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 10000000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 10000000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203110,
+  "name": "Draymond Green",
+  "firstName": "Draymond",
+  "lastName": "Green",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "contract": [{
+    "year": 2015,
+    "salary": 14260870,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 15330435,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 16400000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 17469565,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 18539130,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203475,
+  "name": "Erick Green",
+  "firstName": "Erick",
+  "lastName": "Green",
+  "teamId": 0,
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101123,
+  "name": "Gerald Green",
+  "firstName": "Gerald",
+  "lastName": "Green",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203210,
+  "name": "JaMychal Green",
+  "firstName": "JaMychal",
+  "lastName": "Green",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 980431,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 201145,
+  "name": "Jeff Green",
+  "firstName": "Jeff",
+  "lastName": "Green",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 9200000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201933,
+  "name": "Blake Griffin",
+  "firstName": "Blake",
+  "lastName": "Griffin",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 18907725,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 20140838,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 21373950,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203798,
+  "name": "PJ Hairston",
+  "firstName": "PJ",
+  "lastName": "Hairston",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1201440,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1253160,
+    "option": "Team"
+  }, {
+    "year": 2017,
+    "salary": 2259447,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201946,
+  "name": "Tyler Hansbrough",
+  "firstName": "Tyler",
+  "lastName": "Hansbrough",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203501,
+  "name": "Tim Hardaway Jr.",
+  "firstName": "Tim",
+  "lastName": "Hardaway Jr.",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1304520,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2281605,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201935,
+  "name": "James Harden",
+  "firstName": "James",
+  "lastName": "Harden",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 15756438,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 16784031,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 17811625,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203090,
+  "name": "Maurice Harkless",
+  "firstName": "Maurice",
+  "lastName": "Harkless",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626149,
+  "name": "Montrezl Harrell",
+  "firstName": "Montrezl",
+  "lastName": "Harrell",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1045000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1090000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2734,
+  "name": "Devin Harris",
+  "firstName": "Devin",
+  "lastName": "Harris",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4053446,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4227996,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 4402546,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203914,
+  "name": "Gary Harris",
+  "firstName": "Gary",
+  "lastName": "Harris",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1587480,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1655880,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2550055,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203925,
+  "name": "Joe Harris",
+  "firstName": "Joe",
+  "lastName": "Harris",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202699,
+  "name": "Tobias Harris",
+  "firstName": "Tobias",
+  "lastName": "Harris",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 16000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 17200000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 16000000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 14800000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626151,
+  "name": "Aaron Harrison",
+  "firstName": "Aaron",
+  "lastName": "Harrison",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 2617,
+  "name": "Udonis Haslem",
+  "firstName": "Udonis",
+  "lastName": "Haslem",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2854940,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201150,
+  "name": "Spencer Hawes",
+  "firstName": "Spencer",
+  "lastName": "Hawes",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6110034,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6348759,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 6021175,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 101236,
+  "name": "Charles Hayes",
+  "firstName": "Charles",
+  "lastName": "Hayes",
+  "teamId": 0,
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202330,
+  "name": "Gordon Hayward",
+  "firstName": "Gordon",
+  "lastName": "Hayward",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 15409570,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 16073140,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 16736710,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 201945,
+  "name": "Gerald Henderson",
+  "firstName": "Gerald",
+  "lastName": "Henderson",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203089,
+  "name": "John Henson",
+  "firstName": "John",
+  "lastName": "Henson",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "contract": [{
+    "year": 2015,
+    "salary": 2943221,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12267606,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 11422536,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 10577466,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 9732396,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626209,
+  "name": "Mario Hezonja",
+  "firstName": "Mario",
+  "lastName": "Hezonja",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3741480,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3909840,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 4078320,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 5167231,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201579,
+  "name": "Roy Hibbert",
+  "firstName": "Roy",
+  "lastName": "Hibbert",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 15592216,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201581,
+  "name": "JJ Hickson",
+  "firstName": "JJ",
+  "lastName": "Hickson",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2403,
+  "name": "Nene",
+  "lastName": "Nene",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201588,
+  "name": "George Hill",
+  "firstName": "George",
+  "lastName": "Hill",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 8000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201941,
+  "name": "Jordan Hill",
+  "firstName": "Jordan",
+  "lastName": "Hill",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203524,
+  "name": "Solomon Hill",
+  "firstName": "Solomon",
+  "lastName": "Hill",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1358880,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626199,
+  "name": "Darrun Hilliard",
+  "firstName": "Darrun",
+  "lastName": "Hilliard",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2550,
+  "name": "Kirk Hinrich",
+  "firstName": "Kirk",
+  "lastName": "Hinrich",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2854940,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201950,
+  "name": "Jrue Holiday",
+  "firstName": "Jrue",
+  "lastName": "Holiday",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 10595507,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 11286518,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203200,
+  "name": "Justin Holiday",
+  "firstName": "Justin",
+  "lastName": "Holiday",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1015696,
+    "option": "None"
+  }]
+}, {
+  "playerId": 200797,
+  "name": "Ryan Hollins",
+  "firstName": "Ryan",
+  "lastName": "Hollins",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": null,
+  "contract": [{
+    "year": 2015,
+    "salary": 55722,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626178,
+  "name": "Rondae Hollis-Jefferson",
+  "firstName": "Rondae",
+  "lastName": "Hollis-Jefferson",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1335480,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1395600,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1455720,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2470357,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 1626158,
+  "name": "Richaun Holmes",
+  "firstName": "Richaun",
+  "lastName": "Holmes",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1074169,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1025831,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1014746,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2018,
+    "salary": 1088038,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203918,
+  "name": "Rodney Hood",
+  "firstName": "Rodney",
+  "lastName": "Hood",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1348440,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1406520,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2386864,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201143,
+  "name": "Al Horford",
+  "firstName": "Al",
+  "lastName": "Horford",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 12000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2730,
+  "name": "Dwight Howard",
+  "firstName": "Dwight",
+  "lastName": "Howard",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 22359364,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 23282457,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 1626273,
+  "name": "Marcelo Huertas",
+  "firstName": "Marcelo",
+  "lastName": "Huertas",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203962,
+  "name": "Josh Huestis",
+  "firstName": "Josh",
+  "lastName": "Huestis",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1140240,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1191480,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1242840,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2243326,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 2743,
+  "name": "Kris Humphries",
+  "firstName": "Kris",
+  "lastName": "Humphries",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4440000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4630000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626154,
+  "name": "RJ Hunter",
+  "firstName": "RJ",
+  "lastName": "Hunter",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1148640,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1200240,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1251960,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2259788,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201586,
+  "name": "Serge Ibaka",
+  "firstName": "Serge",
+  "lastName": "Ibaka",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 12250000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12250000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2738,
+  "name": "Andre Iguodala",
+  "firstName": "Andre",
+  "lastName": "Iguodala",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 11710456,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 11131368,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101141,
+  "name": "Ersan Ilyasova",
+  "firstName": "Ersan",
+  "lastName": "Ilyasova",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 7900000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 8400000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 204060,
+  "name": "Joe Ingles",
+  "firstName": "Joe",
+  "lastName": "Ingles",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2150000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2246750,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203996,
+  "name": "Damien Inglis",
+  "firstName": "Damien",
+  "lastName": "Inglis",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 855000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 980431,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 202681,
+  "name": "Kyrie Irving",
+  "firstName": "Kyrie",
+  "lastName": "Irving",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "contract": [{
+    "year": 2015,
+    "salary": 16407500,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 17638063,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 18868625,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 20099188,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 21329750,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101127,
+  "name": "Jarrett Jack",
+  "firstName": "Jarrett",
+  "lastName": "Jack",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6300000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6300000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 202704,
+  "name": "Reggie Jackson",
+  "firstName": "Reggie",
+  "lastName": "Jackson",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "contract": [{
+    "year": 2015,
+    "salary": 13913043,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 14956522,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 16000000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 17043478,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 18086957,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2544,
+  "name": "LeBron James",
+  "firstName": "LeBron",
+  "lastName": "James",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 22970500,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 24004173,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 2744,
+  "name": "Al Jefferson",
+  "firstName": "Al",
+  "lastName": "Jefferson",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 13500000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203928,
+  "name": "Cory Jefferson",
+  "firstName": "Cory",
+  "lastName": "Jefferson",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2210,
+  "name": "Richard Jefferson",
+  "firstName": "Richard",
+  "lastName": "Jefferson",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203098,
+  "name": "John Jenkins",
+  "firstName": "John",
+  "lastName": "Jenkins",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 981348,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1050961,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 1178992,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 201943,
+  "name": "Brandon Jennings",
+  "firstName": "Brandon",
+  "lastName": "Jennings",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8344497,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201973,
+  "name": "Jonas Jerebko",
+  "firstName": "Jonas",
+  "lastName": "Jerebko",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5000000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 101161,
+  "name": "Amir Johnson",
+  "firstName": "Amir",
+  "lastName": "Johnson",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 12000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12000000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203187,
+  "name": "Chris Johnson",
+  "firstName": "Chris",
+  "lastName": "Johnson",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201949,
+  "name": "James Johnson",
+  "firstName": "James",
+  "lastName": "Johnson",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2500000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2207,
+  "name": "Joe Johnson",
+  "firstName": "Joe",
+  "lastName": "Johnson",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 24894863,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626169,
+  "name": "Stanley Johnson",
+  "firstName": "Stanley",
+  "lastName": "Johnson",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2841960,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2969880,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3097800,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2018,
+    "salary": 3940402,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 204020,
+  "name": "Tyler Johnson",
+  "firstName": "Tyler",
+  "lastName": "Johnson",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202325,
+  "name": "Wesley Johnson",
+  "firstName": "Wesley",
+  "lastName": "Johnson",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1100602,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1227286,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203999,
+  "name": "Nikola Jokic",
+  "firstName": "Nikola",
+  "lastName": "Jokic",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1300000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1358500,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1417000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 1475500,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 2592,
+  "name": "James Jones",
+  "firstName": "James",
+  "lastName": "Jones",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203093,
+  "name": "Terrence Jones",
+  "firstName": "Terrence",
+  "lastName": "Jones",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2489529,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626145,
+  "name": "Tyus Jones",
+  "firstName": "Tyus",
+  "lastName": "Jones",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1282080,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1339680,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1397400,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2444053,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201599,
+  "name": "DeAndre Jordan",
+  "firstName": "DeAndre",
+  "lastName": "Jordan",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 19689000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 21165675,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 22642350,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 24119025,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 202709,
+  "name": "Cory Joseph",
+  "firstName": "Cory",
+  "lastName": "Joseph",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 7000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7315000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 7630000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 7945000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 2549,
+  "name": "Chris Kaman",
+  "firstName": "Chris",
+  "lastName": "Kaman",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5016000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626163,
+  "name": "Frank Kaminsky",
+  "firstName": "Frank",
+  "lastName": "Kaminsky",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2612520,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3135024,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2847600,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 3627842,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 202683,
+  "name": "Enes Kanter",
+  "firstName": "Enes",
+  "lastName": "Kanter",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203508,
+  "name": "Sergey Karasev",
+  "firstName": "Sergey",
+  "lastName": "Karasev",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1599840,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2463754,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201619,
+  "name": "Sasha Kaun",
+  "firstName": "Sasha",
+  "lastName": "Kaun",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1222494,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1277506,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203527,
+  "name": "Ryan Kelly",
+  "firstName": "Ryan",
+  "lastName": "Kelly",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1724250,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203077,
+  "name": "Michael Kidd-Gilchrist",
+  "firstName": "Michael",
+  "lastName": "Kidd-Gilchrist",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "contract": [{
+    "year": 2015,
+    "salary": 6331403,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 11685393,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 12561798,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 13438202,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 14314607,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 202688,
+  "name": "Brandon Knight",
+  "firstName": "Brandon",
+  "lastName": "Knight",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "contract": [{
+    "year": 2015,
+    "salary": 13500000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12606250,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 13618750,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 14631250,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 15643750,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2594,
+  "name": "Kyle Korver",
+  "firstName": "Kyle",
+  "lastName": "Korver",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5746479,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5239437,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201585,
+  "name": "Kosta Koufos",
+  "firstName": "Kosta",
+  "lastName": "Koufos",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 7700000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 8046500,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 8393000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 8739500,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203897,
+  "name": "Zach LaVine",
+  "firstName": "Zach",
+  "lastName": "LaVine",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2148360,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2240880,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3202218,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203087,
+  "name": "Jeremy Lamb",
+  "firstName": "Jeremy",
+  "lastName": "Lamb",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3034356,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6511628,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 7000000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 7488372,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201171,
+  "name": "Carl Landry",
+  "firstName": "Carl",
+  "lastName": "Landry",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6500000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6500000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203499,
+  "name": "Shane Larkin",
+  "firstName": "Shane",
+  "lastName": "Larkin",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1500000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1500000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203530,
+  "name": "Joffrey Lauvergne",
+  "firstName": "Joffrey",
+  "lastName": "Lauvergne",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1709719,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1709719,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 201951,
+  "name": "Ty Lawson",
+  "firstName": "Ty",
+  "lastName": "Lawson",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 12404495,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 13213482,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 201584,
+  "name": "Courtney Lee",
+  "firstName": "Courtney",
+  "lastName": "Lee",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5675000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101135,
+  "name": "David Lee",
+  "firstName": "David",
+  "lastName": "Lee",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 15493680,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203458,
+  "name": "Alex Len",
+  "firstName": "Alex",
+  "lastName": "Len",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3807120,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4823621,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202695,
+  "name": "Kawhi Leonard",
+  "firstName": "Kawhi",
+  "lastName": "Leonard",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "contract": [{
+    "year": 2015,
+    "salary": 16407500,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 17638063,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 18868625,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 20099188,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 21329750,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203086,
+  "name": "Meyers Leonard",
+  "firstName": "Meyers",
+  "lastName": "Leonard",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3075879,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202720,
+  "name": "Jon Leuer",
+  "firstName": "Jon",
+  "lastName": "Leuer",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1035000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203081,
+  "name": "Damian Lillard",
+  "firstName": "Damian",
+  "lastName": "Lillard",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "contract": [{
+    "year": 2015,
+    "salary": 4236286,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 20956974,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 22528747,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 24100520,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 25672293,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202391,
+  "name": "Jeremy Lin",
+  "firstName": "Jeremy",
+  "lastName": "Lin",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2139000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2235255,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 2733,
+  "name": "Shaun Livingston",
+  "firstName": "Shaun",
+  "lastName": "Livingston",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5543725,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5782450,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 1626172,
+  "name": "Kevon Looney",
+  "firstName": "Kevon",
+  "lastName": "Looney",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1131960,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1182840,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1233840,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2227081,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201572,
+  "name": "Brook Lopez",
+  "firstName": "Brook",
+  "lastName": "Lopez",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 19689000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 21165675,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 22642350,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201577,
+  "name": "Robin Lopez",
+  "firstName": "Robin",
+  "lastName": "Lopez",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 12650000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 13219250,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 13788500,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 14357750,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201567,
+  "name": "Kevin Love",
+  "firstName": "Kevin",
+  "lastName": "Love",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "contract": [{
+    "year": 2015,
+    "salary": 19689000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 21165675,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 22642350,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 24119025,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 25595700,
+    "option": "None"
+  }]
+}, {
+  "playerId": 200768,
+  "name": "Kyle Lowry",
+  "firstName": "Kyle",
+  "lastName": "Lowry",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 12000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12000000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 12000000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 1626168,
+  "name": "Trey Lyles",
+  "firstName": "Trey",
+  "lastName": "Lyles",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2239800,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2340600,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2441400,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 3364249,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 202714,
+  "name": "Shelvin Mack",
+  "firstName": "Shelvin",
+  "lastName": "Mack",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2433333,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2433334,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 101133,
+  "name": "Ian Mahinmi",
+  "firstName": "Ian",
+  "lastName": "Mahinmi",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203906,
+  "name": "Devyn Marble",
+  "firstName": "Devyn",
+  "lastName": "Marble",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626246,
+  "name": "Boban Marjanovic",
+  "firstName": "Boban",
+  "lastName": "Marjanovic",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1200000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203088,
+  "name": "Kendall Marshall",
+  "firstName": "Kendall",
+  "lastName": "Marshall",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2144772,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2048257,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 1951743,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2018,
+    "salary": 1855228,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 1626185,
+  "name": "Jarell Martin",
+  "firstName": "Jarell",
+  "lastName": "Martin",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1230840,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1286160,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1341600,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2416222,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 2755,
+  "name": "Kevin Martin",
+  "firstName": "Kevin",
+  "lastName": "Martin",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 7085000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7377500,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202083,
+  "name": "Wesley Matthews",
+  "firstName": "Wesley",
+  "lastName": "Matthews",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 16407500,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 17145838,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 17884175,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 18622513,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201564,
+  "name": "OJ Mayo",
+  "firstName": "OJ",
+  "lastName": "Mayo",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201601,
+  "name": "Luc Mbah a Moute",
+  "firstName": "Luc",
+  "lastName": "Mbah a Moute",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203949,
+  "name": "James Michael McAdoo",
+  "firstName": "James Michael",
+  "lastName": "McAdoo",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203492,
+  "name": "Ray McCallum",
+  "firstName": "Ray",
+  "lastName": "McCallum",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203468,
+  "name": "CJ McCollum",
+  "firstName": "CJ",
+  "lastName": "McCollum",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2525160,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3219579,
+    "option": "None"
+  }]
+}, {
+  "playerId": 204456,
+  "name": "TJ McConnell",
+  "firstName": "TJ",
+  "lastName": "McConnell",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626191,
+  "name": "Chris McCullough",
+  "firstName": "Chris",
+  "lastName": "McCullough",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1140240,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1191480,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1242840,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2243326,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203909,
+  "name": "KJ McDaniels",
+  "firstName": "KJ",
+  "lastName": "McDaniels",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3189793,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3333333,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3476874,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203926,
+  "name": "Doug McDermott",
+  "firstName": "Doug",
+  "lastName": "McDermott",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2380440,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2483040,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3294994,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203956,
+  "name": "Mitch McGary",
+  "firstName": "Mitch",
+  "lastName": "McGary",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1463040,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1526040,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2430982,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201580,
+  "name": "JaVale McGee",
+  "firstName": "JaVale",
+  "lastName": "McGee",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1270964,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1403611,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203463,
+  "name": "Ben McLemore",
+  "firstName": "Ben",
+  "lastName": "McLemore",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3156600,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4008882,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201177,
+  "name": "Josh McRoberts",
+  "firstName": "Josh",
+  "lastName": "McRoberts",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5543725,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5782450,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 6021175,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201975,
+  "name": "Jodie Meeks",
+  "firstName": "Jodie",
+  "lastName": "Meeks",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6270000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6540000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626257,
+  "name": "Salah Mejri",
+  "firstName": "Salah",
+  "lastName": "Mejri",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 1014746,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 1626175,
+  "name": "Jordan Mickey",
+  "firstName": "Jordan",
+  "lastName": "Mickey",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1170960,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1223653,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1276346,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2018,
+    "salary": 1329039,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203114,
+  "name": "Khris Middleton",
+  "firstName": "Khris",
+  "lastName": "Middleton",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "contract": [{
+    "year": 2015,
+    "salary": 14700000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 15200000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 14100000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 13000000,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 13000000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 101139,
+  "name": "CJ Miles",
+  "firstName": "CJ",
+  "lastName": "Miles",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4394225,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4583450,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 4772675,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 1889,
+  "name": "Andre Miller",
+  "firstName": "Andre",
+  "lastName": "Miller",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2034,
+  "name": "Mike Miller",
+  "firstName": "Mike",
+  "lastName": "Miller",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 201988,
+  "name": "Patty Mills",
+  "firstName": "Patty",
+  "lastName": "Mills",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202407,
+  "name": "Elijah Millsap",
+  "firstName": "Elijah",
+  "lastName": "Millsap",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 200794,
+  "name": "Paul Millsap",
+  "firstName": "Paul",
+  "lastName": "Millsap",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 18671659,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 20072033,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 21472408,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 202703,
+  "name": "Nikola Mirotic",
+  "firstName": "Nikola",
+  "lastName": "Mirotic",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5543725,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5782450,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202328,
+  "name": "Greg Monroe",
+  "firstName": "Greg",
+  "lastName": "Monroe",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 16407500,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 17145838,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 17884175,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 1626242,
+  "name": "Luis Montero",
+  "firstName": "Luis",
+  "lastName": "Montero",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 1014746,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 202734,
+  "name": "E'Twaun Moore",
+  "firstName": "E'Twaun",
+  "lastName": "Moore",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1015421,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203961,
+  "name": "Eric Moreland",
+  "firstName": "Eric",
+  "lastName": "Moreland",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202694,
+  "name": "Marcus Morris",
+  "firstName": "Marcus",
+  "lastName": "Morris",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4625000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 5000000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 5375000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202693,
+  "name": "Markieff Morris",
+  "firstName": "Markieff",
+  "lastName": "Morris",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7400000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 8000000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 8600000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201627,
+  "name": "Anthony Morrow",
+  "firstName": "Anthony",
+  "lastName": "Morrow",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3344000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3488000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 202700,
+  "name": "Donatas Motiejunas",
+  "firstName": "Donatas",
+  "lastName": "Motiejunas",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2288205,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202389,
+  "name": "Timofey Mozgov",
+  "firstName": "Timofey",
+  "lastName": "Mozgov",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4950000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626144,
+  "name": "Emmanuel Mudiay",
+  "firstName": "Emmanuel",
+  "lastName": "Mudiay",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3102240,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3241800,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3381480,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 4294480,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203498,
+  "name": "Shabazz Muhammad",
+  "firstName": "Shabazz",
+  "lastName": "Muhammad",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2056920,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3046299,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203488,
+  "name": "Mike Muscala",
+  "firstName": "Mike",
+  "lastName": "Muscala",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1015696,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 1626204,
+  "name": "Larry Nance Jr.",
+  "firstName": "Larry",
+  "lastName": "Nance Jr.",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1155600,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1207680,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1259640,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2272391,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203894,
+  "name": "Shabazz Napier",
+  "firstName": "Shabazz",
+  "lastName": "Napier",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1294440,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1350120,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2361360,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 202390,
+  "name": "Gary Neal",
+  "firstName": "Gary",
+  "lastName": "Neal",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2139000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2749,
+  "name": "Jameer Nelson",
+  "firstName": "Jameer",
+  "lastName": "Nelson",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4345000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4540525,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 4736050,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203526,
+  "name": "Raul Neto",
+  "firstName": "Raul",
+  "lastName": "Neto",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 900000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 937800,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1014746,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203094,
+  "name": "Andrew Nicholson",
+  "firstName": "Andrew",
+  "lastName": "Nicholson",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2380593,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201149,
+  "name": "Joakim Noah",
+  "firstName": "Joakim",
+  "lastName": "Noah",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 13400000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203457,
+  "name": "Nerlens Noel",
+  "firstName": "Nerlens",
+  "lastName": "Noel",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3457800,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4384490,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203512,
+  "name": "Lucas Nogueira",
+  "firstName": "Lucas",
+  "lastName": "Nogueira",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 200779,
+  "name": "Steve Novak",
+  "firstName": "Steve",
+  "lastName": "Novak",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3750000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1717,
+  "name": "Dirk Nowitzki",
+  "firstName": "Dirk",
+  "lastName": "Nowitzki",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8333334,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 8692184,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203994,
+  "name": "Jusuf Nurkic",
+  "firstName": "Jusuf",
+  "lastName": "Nurkic",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1842000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1921320,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2947305,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203948,
+  "name": "Johnny O'Bryant",
+  "firstName": "Johnny",
+  "lastName": "O'Bryant",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 980431,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203124,
+  "name": "Kyle O'Quinn",
+  "firstName": "Kyle",
+  "lastName": "O'Quinn",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3750000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3918750,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 4087500,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 4256250,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 1626143,
+  "name": "Jahlil Okafor",
+  "firstName": "Jahlil",
+  "lastName": "Okafor",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4582680,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4788840,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 4995120,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 6313832,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203506,
+  "name": "Victor Oladipo",
+  "firstName": "Victor",
+  "lastName": "Oladipo",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5192520,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6552960,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203482,
+  "name": "Kelly Olynyk",
+  "firstName": "Kelly",
+  "lastName": "Olynyk",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2165160,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3094014,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626162,
+  "name": "Kelly Oubre",
+  "firstName": "Kelly",
+  "lastName": "Oubre",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1920240,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2006640,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2093040,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 3208630,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 2585,
+  "name": "Zaza Pachulia",
+  "firstName": "Zaza",
+  "lastName": "Pachulia",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5200000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203123,
+  "name": "Kostas Papanikolaou",
+  "firstName": "Kostas",
+  "lastName": "Papanikolaou",
+  "teamId": 1610612743,
+  "teamName": "Denver Nuggets",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203953,
+  "name": "Jabari Parker",
+  "firstName": "Jabari",
+  "lastName": "Parker",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5152440,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5374320,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 6782392,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 2225,
+  "name": "Tony Parker",
+  "firstName": "Tony",
+  "lastName": "Parker",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 13437500,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 14445313,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 15453126,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202718,
+  "name": "Chandler Parsons",
+  "firstName": "Chandler",
+  "lastName": "Parsons",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 15361500,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 16023000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203934,
+  "name": "Lamar Patterson",
+  "firstName": "Lamar",
+  "lastName": "Patterson",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 202335,
+  "name": "Patrick Patterson",
+  "firstName": "Patrick",
+  "lastName": "Patterson",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6268675,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6050000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101108,
+  "name": "Chris Paul",
+  "firstName": "Chris",
+  "lastName": "Paul",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 21468696,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 22868828,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 24268959,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203940,
+  "name": "Adreian Payne",
+  "firstName": "Adreian",
+  "lastName": "Payne",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1938840,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2022240,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3100094,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 1626166,
+  "name": "Cameron Payne",
+  "firstName": "Cameron",
+  "lastName": "Payne",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2021520,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2112480,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2203440,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 3263295,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203901,
+  "name": "Elfrid Payton",
+  "firstName": "Elfrid",
+  "lastName": "Payton",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2505720,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2613600,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3332340,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201593,
+  "name": "Nikola Pekovic",
+  "firstName": "Nikola",
+  "lastName": "Pekovic",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 12100000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12100000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 11600000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2570,
+  "name": "Kendrick Perkins",
+  "firstName": "Kendrick",
+  "lastName": "Perkins",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1718,
+  "name": "Paul Pierce",
+  "firstName": "Paul",
+  "lastName": "Pierce",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3376000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3527920,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3679840,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 202353,
+  "name": "Tibor Pleiss",
+  "firstName": "Tibor",
+  "lastName": "Pleiss",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2900000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3000000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3100000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203486,
+  "name": "Mason Plumlee",
+  "firstName": "Mason",
+  "lastName": "Plumlee",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1415520,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2328530,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203101,
+  "name": "Miles Plumlee",
+  "firstName": "Miles",
+  "lastName": "Plumlee",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2109293,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202347,
+  "name": "Quincy Pondexter",
+  "firstName": "Quincy",
+  "lastName": "Pondexter",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3382023,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3617978,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3853931,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203490,
+  "name": "Otto Porter",
+  "firstName": "Otto",
+  "lastName": "Porter",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626171,
+  "name": "Bobby Portis",
+  "firstName": "Bobby",
+  "lastName": "Portis",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1391160,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1453680,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1516320,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2494346,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 204001,
+  "name": "Kristaps Porzingis",
+  "firstName": "Kristaps",
+  "lastName": "Porzingis",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4131720,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4317720,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 4503600,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 5697054,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203939,
+  "name": "Dwight Powell",
+  "firstName": "Dwight",
+  "lastName": "Powell",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626181,
+  "name": "Norman Powell",
+  "firstName": "Norman",
+  "lastName": "Powell",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 650000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1014746,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203515,
+  "name": "Phil Pressey",
+  "firstName": "Phil",
+  "lastName": "Pressey",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101179,
+  "name": "Ronnie Price",
+  "firstName": "Ronnie",
+  "lastName": "Price",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203143,
+  "name": "Pablo Prigioni",
+  "firstName": "Pablo",
+  "lastName": "Prigioni",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2419,
+  "name": "Tayshaun Prince",
+  "firstName": "Tayshaun",
+  "lastName": "Prince",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203944,
+  "name": "Julius Randle",
+  "firstName": "Julius",
+  "lastName": "Randle",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3132240,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3267120,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 4149242,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 2216,
+  "name": "Zach Randolph",
+  "firstName": "Zach",
+  "lastName": "Randolph",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 9638555,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 10361445,
+    "option": "None"
+  }]
+}, {
+  "playerId": 200755,
+  "name": "JJ Redick",
+  "firstName": "JJ",
+  "lastName": "Redick",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 7085000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7377500,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203186,
+  "name": "Willie Reed",
+  "firstName": "Willie",
+  "lastName": "Reed",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626196,
+  "name": "Josh Richardson",
+  "firstName": "Josh",
+  "lastName": "Richardson",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 1014746,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203085,
+  "name": "Austin Rivers",
+  "firstName": "Austin",
+  "lastName": "Rivers",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3110796,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3344106,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203460,
+  "name": "Andre Roberson",
+  "firstName": "Andre",
+  "lastName": "Roberson",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1210800,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2183072,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203148,
+  "name": "Brian Roberts",
+  "firstName": "Brian",
+  "lastName": "Roberts",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2854940,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203922,
+  "name": "Glenn Robinson",
+  "firstName": "Glenn",
+  "lastName": "Robinson",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101126,
+  "name": "Nate Robinson",
+  "firstName": "Nate",
+  "lastName": "Robinson",
+  "teamId": 0,
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203080,
+  "name": "Thomas Robinson",
+  "firstName": "Thomas",
+  "lastName": "Robinson",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 981348,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1050961,
+    "option": "None"
+  }]
+}, {
+  "playerId": 200765,
+  "name": "Rajon Rondo",
+  "firstName": "Rajon",
+  "lastName": "Rondo",
+  "teamId": 1610612758,
+  "teamName": "Sacramento Kings",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 9500000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201565,
+  "name": "Derrick Rose",
+  "firstName": "Derrick",
+  "lastName": "Rose",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 20093064,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 21323252,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203082,
+  "name": "Terrence Ross",
+  "firstName": "Terrence",
+  "lastName": "Ross",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3553917,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 9767442,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 10500000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 11232558,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626179,
+  "name": "Terry Rozier",
+  "firstName": "Terry",
+  "lastName": "Rozier",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1824360,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1906440,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1988520,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 3050390,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201937,
+  "name": "Ricky Rubio",
+  "firstName": "Ricky",
+  "lastName": "Rubio",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 12700000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 13400000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 14100000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 14800000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 204014,
+  "name": "Damjan Rudez",
+  "firstName": "Damjan",
+  "lastName": "Rudez",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1149500,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1199000,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201575,
+  "name": "Brandon Rush",
+  "firstName": "Brandon",
+  "lastName": "Rush",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1270964,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626156,
+  "name": "D'Angelo Russell",
+  "firstName": "D'Angelo",
+  "lastName": "Russell",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5103120,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5332800,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 5562360,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 7019698,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203135,
+  "name": "Robert Sacre",
+  "firstName": "Robert",
+  "lastName": "Sacre",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 981348,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203960,
+  "name": "JaKarr Sampson",
+  "firstName": "JaKarr",
+  "lastName": "Sampson",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 980431,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 1051245,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203471,
+  "name": "Dennis Schroder",
+  "firstName": "Dennis",
+  "lastName": "Schroder",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2449,
+  "name": "Luis Scola",
+  "firstName": "Luis",
+  "lastName": "Scola",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2900000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203118,
+  "name": "Mike Scott",
+  "firstName": "Mike",
+  "lastName": "Scott",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3333333,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3333334,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 200757,
+  "name": "Thabo Sefolosha",
+  "firstName": "Thabo",
+  "lastName": "Sefolosha",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3850000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202338,
+  "name": "Kevin Seraphin",
+  "firstName": "Kevin",
+  "lastName": "Seraphin",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2814000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201196,
+  "name": "Ramon Sessions",
+  "firstName": "Ramon",
+  "lastName": "Sessions",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2170465,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202697,
+  "name": "Iman Shumpert",
+  "firstName": "Iman",
+  "lastName": "Shumpert",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8988764,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 9662921,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 10337079,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 11011236,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203613,
+  "name": "Jonathon Simmons",
+  "firstName": "Jonathon",
+  "lastName": "Simmons",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 525093,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 874636,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 202713,
+  "name": "Kyle Singler",
+  "firstName": "Kyle",
+  "lastName": "Singler",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "contract": [{
+    "year": 2015,
+    "salary": 4347826,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4673913,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 5000000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 5326087,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 5652174,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 202388,
+  "name": "Donald Sloan",
+  "firstName": "Donald",
+  "lastName": "Sloan",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203935,
+  "name": "Marcus Smart",
+  "firstName": "Marcus",
+  "lastName": "Smart",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3431040,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 3578880,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 4538020,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 202397,
+  "name": "Ish Smith",
+  "firstName": "Ish",
+  "lastName": "Smith",
+  "teamId": 1610612740,
+  "teamName": "New Orleans Pelicans",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2747,
+  "name": "J.R. Smith",
+  "firstName": "J.R.",
+  "lastName": "Smith",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5000000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 201160,
+  "name": "Jason Smith",
+  "firstName": "Jason",
+  "lastName": "Smith",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4300000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2746,
+  "name": "Josh Smith",
+  "firstName": "Josh",
+  "lastName": "Smith",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203893,
+  "name": "Russ Smith",
+  "firstName": "Russ",
+  "lastName": "Smith",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 980431,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203503,
+  "name": "Tony Snell",
+  "firstName": "Tony",
+  "lastName": "Snell",
+  "teamId": 1610612741,
+  "teamName": "Chicago Bulls",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1535880,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2368327,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201578,
+  "name": "Marreese Speights",
+  "firstName": "Marreese",
+  "lastName": "Speights",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3815000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201168,
+  "name": "Tiago Splitter",
+  "firstName": "Tiago",
+  "lastName": "Splitter",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8800000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 8550000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203917,
+  "name": "Nik Stauskas",
+  "firstName": "Nik",
+  "lastName": "Stauskas",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2869440,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2993040,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3807147,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 202362,
+  "name": "Lance Stephenson",
+  "firstName": "Lance",
+  "lastName": "Stephenson",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 9000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 9405000,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203950,
+  "name": "Jarnell Stokes",
+  "firstName": "Jarnell",
+  "lastName": "Stokes",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 980431,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 2405,
+  "name": "Amar'e Stoudemire",
+  "firstName": "Amar'e",
+  "lastName": "Stoudemire",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201155,
+  "name": "Rodney Stuckey",
+  "firstName": "Rodney",
+  "lastName": "Stuckey",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 7000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7000000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 7000000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203096,
+  "name": "Jared Sullinger",
+  "firstName": "Jared",
+  "lastName": "Sullinger",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2269260,
+    "option": "None"
+  }]
+}, {
+  "playerId": 204002,
+  "name": "Walter Tavares",
+  "firstName": "Walter",
+  "lastName": "Tavares",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1000000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1014746,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 201952,
+  "name": "Jeff Teague",
+  "firstName": "Jeff",
+  "lastName": "Teague",
+  "teamId": 1610612737,
+  "teamName": "Atlanta Hawks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 8000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 8000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203141,
+  "name": "Mirza Teletovic",
+  "firstName": "Mirza",
+  "lastName": "Teletovic",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5500000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202066,
+  "name": "Garrett Temple",
+  "firstName": "Garrett",
+  "lastName": "Temple",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1100602,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1891,
+  "name": "Jason Terry",
+  "firstName": "Jason",
+  "lastName": "Terry",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 942276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202738,
+  "name": "Isaiah Thomas",
+  "firstName": "Isaiah",
+  "lastName": "Thomas",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6912869,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6587132,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 6261395,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202498,
+  "name": "Lance Thomas",
+  "firstName": "Lance",
+  "lastName": "Thomas",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1636842,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203138,
+  "name": "Hollis Thompson",
+  "firstName": "Hollis",
+  "lastName": "Thompson",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1015696,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201574,
+  "name": "Jason Thompson",
+  "firstName": "Jason",
+  "lastName": "Thompson",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6658282,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 7052032,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 202691,
+  "name": "Klay Thompson",
+  "firstName": "Klay",
+  "lastName": "Thompson",
+  "teamId": 1610612744,
+  "teamName": "Golden State Warriors",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 15501000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 16663575,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 17826150,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 18988725,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202684,
+  "name": "Tristan Thompson",
+  "firstName": "Tristan",
+  "lastName": "Thompson",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "contract": [{
+    "year": 2015,
+    "salary": 14260870,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 15330435,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 16400000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 17469565,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 18539130,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201977,
+  "name": "Marcus Thornton",
+  "firstName": "Marcus",
+  "lastName": "Thornton",
+  "teamId": 1610612745,
+  "teamName": "Houston Rockets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201229,
+  "name": "Anthony Tolliver",
+  "firstName": "Anthony",
+  "lastName": "Tolliver",
+  "teamId": 1610612765,
+  "teamName": "Detroit Pistons",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626157,
+  "name": "Karl-Anthony Towns",
+  "firstName": "Karl-Anthony",
+  "lastName": "Towns",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5703600,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5960160,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 6216840,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 7839435,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 200782,
+  "name": "PJ Tucker",
+  "firstName": "PJ",
+  "lastName": "Tucker",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5500000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5300000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 202323,
+  "name": "Evan Turner",
+  "firstName": "Evan",
+  "lastName": "Turner",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 3425510,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626167,
+  "name": "Myles Turner",
+  "firstName": "Myles",
+  "lastName": "Turner",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2357760,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2463840,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2569920,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 3410284,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 2757,
+  "name": "Beno Udrih",
+  "firstName": "Beno",
+  "lastName": "Udrih",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2170465,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202685,
+  "name": "Jonas Valanciunas",
+  "firstName": "Jonas",
+  "lastName": "Valanciunas",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "contract": [{
+    "year": 2015,
+    "salary": 4660482,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 14382022,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 15460674,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 16539326,
+    "option": "None"
+  }, {
+    "year": 2019,
+    "salary": 17617978,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 2760,
+  "name": "Anderson Varejao",
+  "firstName": "Anderson",
+  "lastName": "Varejao",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 9638554,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 10361446,
+    "option": "Non-guaranteed"
+  }, {
+    "year": 2017,
+    "salary": 10000000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 202349,
+  "name": "Greivis Vasquez",
+  "firstName": "Greivis",
+  "lastName": "Vasquez",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 6600000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626173,
+  "name": "Rashad Vaughn",
+  "firstName": "Rashad",
+  "lastName": "Vaughn",
+  "teamId": 1610612749,
+  "teamName": "Milwaukee Bucks",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1733040,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1811040,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1889040,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2901565,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 101111,
+  "name": "Charlie Villanueva",
+  "firstName": "Charlie",
+  "lastName": "Villanueva",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203943,
+  "name": "Noah Vonleh",
+  "firstName": "Noah",
+  "lastName": "Vonleh",
+  "teamId": 1610612757,
+  "teamName": "Portland Trail Blazers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2637720,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2751360,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3505233,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 202696,
+  "name": "Nikola Vucevic",
+  "firstName": "Nikola",
+  "lastName": "Vucevic",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 11250000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 11750000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 12250000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 12750000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2756,
+  "name": "Sasha Vujacic",
+  "firstName": "Sasha",
+  "lastName": "Vujacic",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2548,
+  "name": "Dwyane Wade",
+  "firstName": "Dwyane",
+  "lastName": "Wade",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 20000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203079,
+  "name": "Dion Waiters",
+  "firstName": "Dion",
+  "lastName": "Waiters",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5138430,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202689,
+  "name": "Kemba Walker",
+  "firstName": "Kemba",
+  "lastName": "Walker",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 12000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12000000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 12000000,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 12000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202322,
+  "name": "John Wall",
+  "firstName": "John",
+  "lastName": "Wall",
+  "teamId": 1610612764,
+  "teamName": "Washington Wizards",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 15851950,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 16957900,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 18063850,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 19169800,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203933,
+  "name": "TJ Warren",
+  "firstName": "TJ",
+  "lastName": "Warren",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2041080,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2128920,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 3152931,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 201228,
+  "name": "CJ Watson",
+  "firstName": "CJ",
+  "lastName": "Watson",
+  "teamId": 1610612753,
+  "teamName": "Orlando Magic",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5000000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5000000,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 5000000,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 201603,
+  "name": "Sonny Weems",
+  "firstName": "Sonny",
+  "lastName": "Weems",
+  "teamId": 1610612756,
+  "teamName": "Phoenix Suns",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2814000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2940630,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 2561,
+  "name": "David West",
+  "firstName": "David",
+  "lastName": "West",
+  "teamId": 1610612759,
+  "teamName": "San Antonio Spurs",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1499187,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1551659,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 201566,
+  "name": "Russell Westbrook",
+  "firstName": "Russell",
+  "lastName": "Westbrook",
+  "teamId": 1610612760,
+  "teamName": "Oklahoma City Thunder",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 16744218,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 17769374,
+    "option": "None"
+  }]
+}, {
+  "playerId": 202355,
+  "name": "Hassan Whiteside",
+  "firstName": "Hassan",
+  "lastName": "Whiteside",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 981348,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203963,
+  "name": "Shayne Whittington",
+  "firstName": "Shayne",
+  "lastName": "Whittington",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 845059,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 980431,
+    "option": "Non-guaranteed"
+  }]
+}, {
+  "playerId": 203952,
+  "name": "Andrew Wiggins",
+  "firstName": "Andrew",
+  "lastName": "Wiggins",
+  "teamId": 1610612750,
+  "teamName": "Minnesota Timberwolves",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5758680,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 6006600,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 7574323,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203912,
+  "name": "CJ Wilcox",
+  "firstName": "CJ",
+  "lastName": "Wilcox",
+  "teamId": 1610612746,
+  "teamName": "Los Angeles Clippers",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1159680,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1209600,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2183328,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 101114,
+  "name": "Deron Williams",
+  "firstName": "Deron",
+  "lastName": "Williams",
+  "teamId": 1610612742,
+  "teamName": "Dallas Mavericks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5378974,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5621026,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 202682,
+  "name": "Derrick Williams",
+  "firstName": "Derrick",
+  "lastName": "Williams",
+  "teamId": 1610612752,
+  "teamName": "New York Knicks",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4400000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 4400000,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 101150,
+  "name": "Lou Williams",
+  "firstName": "Lou",
+  "lastName": "Williams",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 101107,
+  "name": "Marvin Williams",
+  "firstName": "Marvin",
+  "lastName": "Williams",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 7000000,
+    "option": "None"
+  }]
+}, {
+  "playerId": 2590,
+  "name": "Mo Williams",
+  "firstName": "Mo",
+  "lastName": "Williams",
+  "teamId": 1610612739,
+  "teamName": "Cleveland Cavaliers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2100000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2194500,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 1626159,
+  "name": "Justise Winslow",
+  "firstName": "Justise",
+  "lastName": "Winslow",
+  "teamId": 1610612748,
+  "teamName": "Miami Heat",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2481720,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 2593440,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2705040,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 3448926,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203481,
+  "name": "Jeff Withey",
+  "firstName": "Jeff",
+  "lastName": "Withey",
+  "teamId": 1610612762,
+  "teamName": "Utah Jazz",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1015696,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 1626174,
+  "name": "Christian Wood",
+  "firstName": "Christian",
+  "lastName": "Wood",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1897,
+  "name": "Metta World Peace",
+  "firstName": "Metta",
+  "lastName": "World Peace",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 947276,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201148,
+  "name": "Brandan Wright",
+  "firstName": "Brandan",
+  "lastName": "Wright",
+  "teamId": 1610612763,
+  "teamName": "Memphis Grizzlies",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5464000,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5709880,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 5955760,
+    "option": "None"
+  }]
+}, {
+  "playerId": 1626153,
+  "name": "Delon Wright",
+  "firstName": "Delon",
+  "lastName": "Wright",
+  "teamId": 1610612761,
+  "teamName": "Toronto Raptors",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1509360,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1577280,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 1645200,
+    "option": "Team"
+  }, {
+    "year": 2018,
+    "salary": 2536898,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 203100,
+  "name": "Tony Wroten",
+  "firstName": "Tony",
+  "lastName": "Wroten",
+  "teamId": 1610612755,
+  "teamName": "Philadelphia 76ers",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203923,
+  "name": "James Young",
+  "firstName": "James",
+  "lastName": "Young",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 1749840,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 1825200,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 2803507,
+    "option": "Team"
+  }]
+}, {
+  "playerId": 1626202,
+  "name": "Joe Young",
+  "firstName": "Joe",
+  "lastName": "Young",
+  "teamId": 1610612754,
+  "teamName": "Indiana Pacers",
+  "freeAgencyStatus": "No data",
+  "contract": [{
+    "year": 2015,
+    "salary": 0,
+    "option": "None"
+  }]
+}, {
+  "playerId": 201156,
+  "name": "Nick Young",
+  "firstName": "Nick",
+  "lastName": "Young",
+  "teamId": 1610612747,
+  "teamName": "Los Angeles Lakers",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 5219169,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5443918,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 5668667,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 201152,
+  "name": "Thaddeus Young",
+  "firstName": "Thaddeus",
+  "lastName": "Young",
+  "teamId": 1610612751,
+  "teamName": "Brooklyn Nets",
+  "freeAgencyStatus": "UFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 11235955,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 12078652,
+    "option": "None"
+  }, {
+    "year": 2017,
+    "salary": 12921348,
+    "option": "None"
+  }, {
+    "year": 2018,
+    "salary": 13764045,
+    "option": "Player"
+  }]
+}, {
+  "playerId": 203469,
+  "name": "Cody Zeller",
+  "firstName": "Cody",
+  "lastName": "Zeller",
+  "teamId": 1610612766,
+  "teamName": "Charlotte Hornets",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 4204200,
+    "option": "None"
+  }, {
+    "year": 2016,
+    "salary": 5318313,
+    "option": "None"
+  }]
+}, {
+  "playerId": 203092,
+  "name": "Tyler Zeller",
+  "firstName": "Tyler",
+  "lastName": "Zeller",
+  "teamId": 1610612738,
+  "teamName": "Boston Celtics",
+  "freeAgencyStatus": "RFA",
+  "contract": [{
+    "year": 2015,
+    "salary": 2616975,
+    "option": "None"
+  }]
+}]

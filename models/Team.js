@@ -1,39 +1,34 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
-var Pick = new Schema({
-  type: String,
-  team: String,
-  year: Number,
-  round: Number,
-  description: String
-});
-
-var Deadmoney = new Schema({
-  year: Number,
-  instances: [{
-    player: String,
-    amount: Number
-  }]
-});
-
-// var Tradeexception = new Schema({
-//   player: String,
-//   until: Number, // Date?
-//   amount: Number
-// })
-
 var Team = new Schema({
   teamId: Number,
   name: String,
-  city: String,
-  imgSrc: String,
-  players: [Number],
-  picks: [Pick],
-  deadMoney: [Deadmoney]
-  // tradeExceptions: [Tradeexception]
+  location: String,
+  simpleName: String,
+  abbreviation: String,
+  imgsrc: String,
+  hardcapped: Boolean,
+  picks: [{
+    type: String,
+    year: Number,
+    round: Number,
+    originalOwner: String,
+    description: String
+  }],
+  deadMoney: [{
+    playerName: String,
+    instances: [{
+      year: Number,
+      amount: Number
+    }]
+  }],
+  tradeExceptions: [{
+    player: String,
+    amount: Number,
+    expires: String
+  }],
+  players: [Number]
 });
 
 module.exports.Team = mongoose.model('Team', Team);
-module.exports.Pick = mongoose.model('Pick', Pick);
-module.exports.Deadmoney = mongoose.model('Deadmoney', Deadmoney);

@@ -1,0 +1,3420 @@
+[{
+  "teamId": 1610612737,
+  "name": "Atlanta Hawks",
+  "location": "Atlanta",
+  "simpleName": "Hawks",
+  "abbreviation": "ATL",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/1-atlanta-hawks.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Washington Wizards",
+    "description": "Washington's 2016 2nd round pick to Atlanta [Atlanta-New York-Washington, 6/25/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Brooklyn Nets",
+    "description": "Brooklyn's 2017 2nd round pick to Atlanta [Atlanta-Brooklyn, 7/11/2012]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Miami Heat",
+    "description": "Miami's 2nd round pick to Atlanta protected for selections 31-40 in 2017 and unprotected in 2018 [Atlanta-Miami, 6/27/2013]"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "Minnesota's 1st round pick to Atlanta protected for selections in 1-14 in 2018, 1-14 in 2019 and 1-14 in 2020; if Minnesota has not conveyed a 1st round pick to Atlanta by 2020, then Minnesota will instead convey its 2020 2nd round pick and 2021 2nd round pick to Atlanta [Atlanta-Minnesota, 2/10/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Washington Wizards",
+    "description": "Washington's 2019 2nd round pick to Atlanta [Atlanta-New York-Washington, 6/25/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Atlanta Hawks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Atlanta Hawks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Atlanta Hawks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Atlanta Hawks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Atlanta Hawks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Atlanta Hawks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Atlanta Hawks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Atlanta Hawks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Atlanta Hawks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Atlanta Hawks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Atlanta Hawks",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Terran Petteway",
+    "instances": [{
+      "year": 2015,
+      "amount": 75000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [203145, 203501, 203200, 201143, 2594, 202714, 200794, 203488, 203934, 203471, 203118, 200757, 201168, 204002, 201952]
+}, {
+  "teamId": 1610612738,
+  "name": "Boston Celtics",
+  "location": "Boston",
+  "simpleName": "Celtics",
+  "abbreviation": "BOS",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/2-boston-celtics.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Brooklyn Nets",
+    "description": "Brooklyn's 2016 1st round pick to Boston [Boston-Brooklyn, 7/12/2013]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Dallas Mavericks",
+    "description": "Dallas' 1st round pick to Boston protected for 1-7 in 2016, 1-7 in 2017, 1-7 in 2018, 1-7 in 2019 and 1-7 in 2020 and unprotected in 2021 [Boston-Dallas, 12/18/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "Minnesota's 2016 1st round pick to Boston (via Phoenix) protected for selections 1-12; if this pick falls within its protected range and is therefore not conveyed, then Minnesota will instead convey its 2016 2nd round pick and 2017 2nd round pick to Boston [Minnesota-New Orleans-Phoenix, 7/27/2012; Boston-Phoenix, 1/9/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "Cleveland's 2016 2nd round pick to Boston [Boston-Cleveland, 9/25/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Dallas Mavericks",
+    "description": "Dallas will convey the more favorable of its 2016 2nd round pick and Memphis' 2016 2nd round pick to Boston (via Denver to Dallas then removal of protection from Memphis) [Denver-Memphis, 8/7/2009; Dallas-Denver, 12/13/2011; Dallas-Memphis, 7/22/2013; Boston-Dallas, 12/18/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Miami Heat",
+    "description": "Miami's 2016 2nd round pick to Boston [Boston-Golden State-Miami, 1/15/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "Philadelphia's 2016 2nd round pick to Boston (via Miami) [Miami-Philadelphia, 6/28/2012; Boston-Golden State-Miami, 1/15/2014]"
+  }, {
+    "type": "Swap",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Brooklyn Nets",
+    "description": "Boston has the right to swap its 2017 1st round pick for Brooklyn's 2017 1st round pick; if Boston exercises this swap right, then Boston will convey its 2017 2nd round pick to Brooklyn protected for selections 31-45 (if this pick falls within its protected range and is therefore not conveyed, then Boston's obligation to Brooklyn will be extinguished) [Boston-Brooklyn, 7/12/2013]; this potential pick conveyance is the same as the one described in '2017 second round draft pick from Boston' on Brooklyn Credits"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "Cleveland's 2017 2nd round pick to Boston [Boston-Cleveland, 9/25/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "L.A. Clippers' 2017 2nd round pick to Boston [Boston-L.A. Clippers-Phoenix, 1/15/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Brooklyn Nets",
+    "description": "Brooklyn's 2018 1st round pick to Boston [Boston-Brooklyn, 7/12/2013]"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "Memphis' 1st round pick to Boston protected for selections 1-12 in 2018 (conveyable if Memphis conveys a 1st round pick to Denver in 2016), 1-8 in 2019 (conveyable if Memphis has conveyed a 1st round pick to Denver by 2017) and 1-6 in 2020 (conveyable if Memphis has conveyed a 1st round pick to Denver by 2018) and unprotected in 2021 [Boston-Memphis-New Orleans, 1/12/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Detroit Pistons",
+    "description": "Detroit's 2019 2nd round pick to Boston (via Oklahoma City) [Detroit-Oklahoma City-Utah, 2/19/2015; Boston-Oklahoma City, 7/14/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Miami Heat",
+    "description": "Miami's 2020 2nd round pick to Boston [Boston-Miami, 7/27/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Boston Celtics",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Boston Celtics",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Boston Celtics",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Boston Celtics",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Boston Celtics",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Boston Celtics",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Boston Celtics",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Boston Celtics",
+    "description": "None"
+  }, {
+    "type": "SwapOtherTeam",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Brooklyn Nets",
+    "description": "If Boston exercises its right to swap its 2017 1st round pick for Brooklyn's 2017 1st round pick, then Boston will convey its 2017 2nd round pick to Brooklyn protected for selections 31-45 (if this pick falls within its protected range and is therefore not conveyed, then Boston's obligation to Brooklyn will be extinguished) [Boston-Brooklyn, 7/12/2013]; this potential pick conveyance is the same as the one described in '2017 first round draft pick from Brooklyn' on Boston Credits"
+  }],
+  "deadMoney": [{
+    "playerName": "Zoran Dragic",
+    "instances": [{
+      "year": 2015,
+      "amount": 1706250
+    }]
+  }, {
+    "playerName": "Malcolm Miller",
+    "instances": [{
+      "year": 2015,
+      "amount": 25000
+    }]
+  }, {
+    "playerName": "Levi Randolph",
+    "instances": [{
+      "year": 2015,
+      "amount": 25000
+    }]
+  }, {
+    "playerName": "Corey Walden",
+    "instances": [{
+      "year": 2015,
+      "amount": 25000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [202340, 203109, 1626154, 201973, 101161, 101135, 1626175, 203482, 1626179, 203935, 203096, 202738, 202323, 203923, 203092]
+}, {
+  "teamId": 1610612751,
+  "name": "Brooklyn Nets",
+  "location": "Brooklyn",
+  "simpleName": "Nets",
+  "abbreviation": "BKN",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/38-brooklyn-nets.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Swap",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Boston Celtics",
+    "description": "If Boston exercises its right to swap its 2017 1st round pick for Brooklyn's 2017 1st round pick, then Boston will convey its 2017 2nd round pick to Brooklyn protected for selections 31-45 (if this pick falls within its protected range and is therefore not conveyed, then Boston's obligation to Brooklyn will be extinguished) [Boston-Brooklyn, 7/12/2013]; this potential pick conveyance is the same as the one described in '2017 first round draft pick from Brooklyn' on Boston Credits"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Brooklyn Nets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Brooklyn Nets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Brooklyn Nets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Brooklyn Nets",
+    "description": "None"
+  }, {
+    "type": "SwapOtherTeam",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "L.A. Clippers have the right to swap their 2016 2nd round pick protected for selections 56-60 for Brooklyn's 2016 2nd round pick (if the L.A. Clippers' pick falls within its protected range, then the L.A. Clippers' swap right and Brooklyn's obligation to the L.A. Clippers will be extinguished) [Brooklyn-L.A. Clippers, 7/11/2012]"
+  }, {
+    "type": "SwapOtherTeam",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Boston Celtics",
+    "description": "Boston has the right to swap its 2017 1st round pick for Brooklyn's 2017 1st round pick; if Boston exercises this swap right, then Boston will convey its 2017 2nd round pick to Brooklyn protected for selections 31-45 (if this pick falls within its protected range and is therefore not conveyed, then Boston's obligation to Brooklyn will be extinguished) [Boston-Brooklyn, 7/12/2013]; this potential pick conveyance is the same as the one described in '2017 second round draft pick from Boston' on Brooklyn Credits"
+  }],
+  "deadMoney": [{
+    "playerName": "Deron Williams",
+    "instances": [{
+      "year": 2015,
+      "amount": 5500000
+    }, {
+      "year": 2016,
+      "amount": 5500000
+    }, {
+      "year": 2017,
+      "amount": 5500000
+    }, {
+      "year": 2018,
+      "amount": 5500000
+    }, {
+      "year": 2019,
+      "amount": 5500000
+    }]
+  }, {
+    "playerName": "Ryan Boatright",
+    "instances": [{
+      "year": 2015,
+      "amount": 75000
+    }]
+  }, {
+    "playerName": "Quincy Miller",
+    "instances": [{
+      "year": 2015,
+      "amount": 50000
+    }]
+  }, {
+    "playerName": "Dahntay Jones",
+    "instances": [{
+      "year": 2015,
+      "amount": 11144
+    }]
+  }, {
+    "playerName": "Justin Harper",
+    "instances": [{
+      "year": 2015,
+      "amount": 9942
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "Steve Blake",
+    "amount": 2170465,
+    "expires": "7/13/16"
+  }, {
+    "player": "Mason Plumlee",
+    "amount": 1357080,
+    "expires": "6/27/16"
+  }, {
+    "player": "Kevin Garnett",
+    "amount": 262131,
+    "expires": "2/19/16"
+  }],
+  "players": [200745, 202711, 203900, 201961, 1626178, 101127, 2207, 203508, 203499, 201572, 1626191, 203186, 203080, 202388, 201152]
+}, {
+  "teamId": 1610612766,
+  "name": "Charlotte Hornets",
+  "location": "Charlotte",
+  "simpleName": "Hornets",
+  "abbreviation": "CHA",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/3-charlotte-horne.png",
+  "hardcapped": true,
+  "picks": [{
+    "type": "Trade",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Brooklyn Nets",
+    "description": "Charlotte will receive the less favorable of Brooklyn's 2018 2nd round pick and Cleveland's 2018 2nd round pick and Philadelphia will receive the more favorable of these two picks (via Philadelphia's right to swap Cleveland for Brooklyn) [Cleveland-Philadelphia, 9/26/2014; Brooklyn-Philadelphia, 12/11/2014; Brooklyn-Charlotte, 6/25/2015]; this pick conveyance is the same as the one described in '2018 second round draft pick from Cleveland' on Charlotte Credits"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "Charlotte will receive the less favorable of Brooklyn's 2018 2nd round pick and Cleveland's 2018 2nd round pick and Philadelphia will receive the more favorable of these two picks (via Philadelphia's right to swap Cleveland for Brooklyn) [Cleveland-Philadelphia, 9/26/2014; Brooklyn-Philadelphia, 12/11/2014; Brooklyn-Charlotte, 6/25/2015]; this pick conveyance is the same as the one described in '2018 second round draft pick from Brooklyn' on Charlotte Credits"
+  }, {
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Brooklyn Nets",
+    "description": "Brooklyn's 2019 2nd round pick to Charlotte [Brooklyn-Charlotte, 6/25/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Charlotte Hornets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Charlotte Hornets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Charlotte Hornets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Charlotte Hornets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Charlotte Hornets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Charlotte Hornets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Charlotte Hornets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Charlotte Hornets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Charlotte Hornets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Charlotte Hornets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Charlotte Hornets",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Elliot Williams",
+    "instances": [{
+      "year": 2015,
+      "amount": 80000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "Matt Barnes",
+    "amount": 646250,
+    "expires": "6/25/16"
+  }, {
+    "player": "Luke Ridnour",
+    "amount": 548000,
+    "expires": "6/25/16"
+  }],
+  "players": [201587, 203584, 203798, 201946, 1626151, 201150, 2744, 1626163, 203077, 203087, 202391, 203148, 202689, 101107, 203469]
+}, {
+  "teamId": 1610612741,
+  "name": "Chicago Bulls",
+  "location": "Chicago",
+  "simpleName": "Bulls",
+  "abbreviation": "CHI",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/4-chicago-bulls.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Sacramento Kings",
+    "description": "Sacramento's 1st round pick to Chicago (via Cleveland) protected for selections 1-10 in 2016 and 1-10 in 2017; if Sacramento has not conveyed a 1st round pick to Chicago by 2017, then Sacramento will instead convey its 2017 2nd round pick to Chicago protected for selections 56-60 (if this pick falls within its protected range and is therefore not conveyed, then Sacramento's obligation to Chicago will be extinguished) [Cleveland-Sacramento, 6/30/2011; Chicago-Cleveland, 1/7/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "Portland's 2016 2nd round pick to Chicago (via Cleveland) [Cleveland-Portland, 6/27/2013; Chicago-Cleveland, 1/7/2014]; Chicago may convey this pick to Orlando (see Chicago Debits)"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Chicago Bulls",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Chicago Bulls",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Chicago Bulls",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Chicago Bulls",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Chicago Bulls",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Chicago Bulls",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Chicago Bulls",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Chicago Bulls",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Chicago Bulls",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Chicago Bulls",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Chicago Bulls",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Richard Hamilton",
+    "instances": [{
+      "year": 2015,
+      "amount": 333333
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [203946, 201166, 202710, 2399, 1626245, 2200, 201959, 2550, 203926, 202703, 202734, 201149, 1626171, 201565, 203503]
+}, {
+  "teamId": 1610612739,
+  "name": "Cleveland Cavaliers",
+  "location": "Cleveland",
+  "simpleName": "Cavaliers",
+  "abbreviation": "CLE",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/5-cleveland-cavs.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "L.A. Clippers' 2016 2nd round pick to Cleveland (via New Orleans) protected for selections 31-55 (if this pick falls within its protected range and is therefore not conveyed, then the L.A. Clippers' obligation to Cleveland will be extinguished) [L.A. Clippers-New Orleans, 8/12/2009; Cleveland-New Orleans, 7/11/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "Cleveland will receive the less favorable of the L.A. Lakers' 2019 2nd round pick (via Indiana) and Minnesota's 2019 2nd round pick and Portland will receive the more favorable of these two picks (via Cleveland) [Cleveland-Minnesota, 6/25/2015; Indiana-L.A. Lakers, 7/9/2015; Cleveland-Indiana, 7/23/2015; Cleveland-Portland, 7/27/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from Minnesota' on Cleveland Credits"
+  }, {
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "Cleveland will receive the less favorable of the L.A. Lakers' 2019 2nd round pick (via Indiana) and Minnesota's 2019 2nd round pick and Portland will receive the more favorable of these two picks (via Cleveland) [Cleveland-Minnesota, 6/25/2015; Indiana-L.A. Lakers, 7/9/2015; Cleveland-Indiana, 7/23/2015; Cleveland-Portland, 7/27/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from L.A. Lakers' on Cleveland Credits"
+  }, {
+    "type": "Trade",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "Portland's 2020 2nd round pick to Cleveland (via Orlando) protected for selections 31-55 (if this pick falls within its protected range and is therefore not conveyed, then Portland's obligation to Cleveland will be extinguished) [Orlando-Portland, 7/14/2015; Cleveland-Orlando, 1/12/2016]"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "None"
+  }, {
+    "type": "SwapOtherTeam",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "New York Knicks",
+    "description": "Orlando has the right to swap its 2019 2nd round pick for Cleveland's 2019 2nd round pick or Houston's 2019 2nd round pick (via New York); if Orlando exercises this swap right, then New York will receive the Orlando pick and the less favorable of the Cleveland pick and the Houston pick; if Orlando does not exercise this swap right, then New York will receive the Cleveland pick and the Houston pick [Cleveland-New York-Oklahoma City, 1/5/2015; Houston-New York, 2/19/2015; New York-Orlando, 7/9/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from Houston' on New York Credits"
+  }, {
+    "type": "SwapOtherTeam",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Orlando Magic",
+    "description": "Orlando has the right to swap its 2019 2nd round pick for Cleveland's 2019 2nd round pick or Houston's 2019 2nd round pick (via New York); if Orlando exercises this swap right, then New York will receive the Orlando pick and the less favorable of the Cleveland pick and the Houston pick; if Orlando does not exercise this swap right, then New York will receive the Cleveland pick and the Houston pick [Cleveland-New York-Oklahoma City, 1/5/2015; Houston-New York, 2/19/2015; New York-Orlando, 7/9/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from Houston' on Orlando Credits"
+  }],
+  "deadMoney": [],
+  "tradeExceptions": [{
+    "player": "Brendan Haywood",
+    "amount": 10522500,
+    "expires": "7/30/16"
+  }, {
+    "player": "Mike Miller",
+    "amount": 2854940,
+    "expires": "7/30/16"
+  }],
+  "players": [203099, 203521, 203925, 202681, 2544, 2210, 2592, 201619, 201567, 202389, 202697, 2747, 202684, 2760, 2590]
+}, {
+  "teamId": 1610612742,
+  "name": "Dallas Mavericks",
+  "location": "Dallas",
+  "simpleName": "Mavericks",
+  "abbreviation": "DAL",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/6-dallas-mavs.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "Memphis' 2016 2nd round pick to Dallas (via Denver to Dallas then removal of protection from Memphis) [Denver-Memphis, 8/7/2009; Dallas-Denver, 12/13/2011; Dallas-Memphis, 7/22/2013]; Dallas may convey this pick to Boston (see Dallas Debits)"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Dallas Mavericks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Dallas Mavericks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Dallas Mavericks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Dallas Mavericks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Dallas Mavericks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Dallas Mavericks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Dallas Mavericks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Dallas Mavericks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Dallas Mavericks",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Samuel Dalembert",
+    "instances": [{
+      "year": 2015,
+      "amount": 947276
+    }]
+  }, {
+    "playerName": "Maurice N&amp;apos;dour",
+    "instances": [{
+      "year": 2015,
+      "amount": 525094
+    }]
+  }, {
+    "playerName": "Gal Mekel",
+    "instances": [{
+      "year": 2015,
+      "amount": 315759
+    }, {
+      "year": 2016,
+      "amount": 315759
+    }, {
+      "year": 2017,
+      "amount": 315759
+    }]
+  }, {
+    "playerName": "Brandon Ashley",
+    "instances": [{
+      "year": 2015,
+      "amount": 50000
+    }]
+  }, {
+    "playerName": "Jamil Wilson",
+    "instances": [{
+      "year": 2015,
+      "amount": 50000
+    }]
+  }, {
+    "playerName": "Jarrid Famous",
+    "instances": [{
+      "year": 2015,
+      "amount": 10000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [1626147, 200826, 202379, 101109, 2734, 203098, 202083, 201580, 1626257, 1717, 2585, 202718, 203939, 101111, 101114]
+}, {
+  "teamId": 1610612743,
+  "name": "Denver Nuggets",
+  "location": "Denver",
+  "simpleName": "Nuggets",
+  "abbreviation": "DEN",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/7-denver-nuggets.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Houston Rockets",
+    "description": "Houston's 2016 1st round pick to Denver protected for selections 1-14; if this pick falls within its protected range and is therefore not conveyed, then Houston will instead convey Portland's 2017 2nd round pick to Denver [Houston-Portland, 7/10/2013; Denver-Houston, 7/20/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "Memphis' 1st round pick to Denver (via Cleveland) protected for selections 1-5 and 15-30 in 2016, 1-5 in 2017 and 1-5 in 2018 and unprotected in 2019 [Cleveland-Memphis, 1/22/2013; Cleveland-Denver, 1/7/2015]"
+  }, {
+    "type": "Swap",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "New York Knicks",
+    "description": "Denver has the right to swap its 2016 1st round pick for New York's 2016 1st round pick [Denver-Minnesota-New York, 2/22/2011]; New York will convey the less favorable of these two picks to Toronto (see New York Debits)"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "Portland's 1st round pick to Denver protected for selections 1-14 in 2016 and 1-14 in 2017; if Portland has not conveyed a 1st round pick to Denver by 2017, then Portland will instead convey the less favorable of its 2018 2nd round pick and Sacramento's 2018 2nd round pick (via Sacramento's right to swap for Portland) and its 2019 2nd round pick to Denver [New Orleans-Portland-Sacramento, 7/10/2013; Denver-Portland, 2/19/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Golden State Warriors",
+    "description": "Golden State's 2018 2nd round pick to Denver [Denver-Golden State-Utah, 7/10/2013]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Denver Nuggets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Denver Nuggets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Denver Nuggets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Denver Nuggets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Denver Nuggets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Denver Nuggets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Denver Nuggets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Denver Nuggets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Denver Nuggets",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Nick Johnson",
+    "instances": [{
+      "year": 2015,
+      "amount": 845059
+    }, {
+      "year": 2016,
+      "amount": 980431
+    }]
+  }, {
+    "playerName": "Joey Dorsey",
+    "instances": [{
+      "year": 2015,
+      "amount": 815421
+    }]
+  }, {
+    "playerName": "Pablo Prigioni",
+    "instances": [{
+      "year": 2015,
+      "amount": 440000
+    }]
+  }, {
+    "playerName": "Kostas Papanikolaou",
+    "instances": [{
+      "year": 2015,
+      "amount": 350000
+    }]
+  }, {
+    "playerName": "Erick Green",
+    "instances": [{
+      "year": 2015,
+      "amount": 100000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [201589, 203115, 201163, 202702, 200751, 201568, 203914, 201581, 203999, 203530, 2034, 1626144, 2749, 203994, 203123]
+}, {
+  "teamId": 1610612765,
+  "name": "Detroit Pistons",
+  "location": "Detroit",
+  "simpleName": "Pistons",
+  "abbreviation": "DET",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/8-detroit-pistons.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Detroit Pistons",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Detroit Pistons",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Detroit Pistons",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Detroit Pistons",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Detroit Pistons",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Detroit Pistons",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Detroit Pistons",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Detroit Pistons",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Detroit Pistons",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Josh Smith",
+    "instances": [{
+      "year": 2015,
+      "amount": 5400000
+    }, {
+      "year": 2016,
+      "amount": 5400000
+    }, {
+      "year": 2017,
+      "amount": 5400000
+    }, {
+      "year": 2018,
+      "amount": 5400000
+    }, {
+      "year": 2019,
+      "amount": 5400000
+    }]
+  }, {
+    "playerName": "Danny Granger",
+    "instances": [{
+      "year": 2015,
+      "amount": 2170465
+    }]
+  }, {
+    "playerName": "Cartier Martin",
+    "instances": [{
+      "year": 2015,
+      "amount": 1270964
+    }]
+  }, {
+    "playerName": "Aaron Gray",
+    "instances": [{
+      "year": 2015,
+      "amount": 452049
+    }, {
+      "year": 2016,
+      "amount": 452049
+    }, {
+      "year": 2017,
+      "amount": 452049
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [201202, 203382, 2581, 203493, 203484, 203915, 203083, 1626199, 101141, 202704, 201943, 1626169, 201975, 202694, 201229]
+}, {
+  "teamId": 1610612744,
+  "name": "Golden State Warriors",
+  "location": "Golden State",
+  "simpleName": "Warriors",
+  "abbreviation": "GSW",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/9-golden-state.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Golden State Warriors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Golden State Warriors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Golden State Warriors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Golden State Warriors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Golden State Warriors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Golden State Warriors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Golden State Warriors",
+    "description": "None"
+  }, {
+    "type": "SwapOtherTeam",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "Philadelphia has the right to swap the less favorable of Miami's 2016 1st round pick protected for selections 1-10 and Oklahoma City's 2016 1st round pick protected for selections 1-15, or either of these two picks if only one falls outside its protected range, for Golden State's 2016 1st round pick (if both the Miami pick and the Oklahoma pick fall within their protected ranges, then Philadelphia's swap right and Golden State's obligation to Philadelphia will be extinguished) [Cleveland-Miami, 7/9/2010; Cleveland-Minnesota-Philadelphia, 8/23/2014; Cleveland-New York-Oklahoma City, 1/5/2015; Cleveland-Denver, 1/7/2015; Denver-Philadelphia, 2/19/2015; Golden State-Philadelphia, 7/31/2015]"
+  }],
+  "deadMoney": [],
+  "tradeExceptions": [{
+    "player": "David Lee",
+    "amount": 5387825,
+    "expires": "7/27/16"
+  }, {
+    "player": "Gerald Wallace",
+    "amount": 3197170,
+    "expires": "7/31/16"
+  }],
+  "players": [2571, 203084, 101106, 203546, 201939, 203105, 203110, 2738, 2733, 1626172, 203949, 201575, 201578, 201574, 202691]
+}, {
+  "teamId": 1610612745,
+  "name": "Houston Rockets",
+  "location": "Houston",
+  "simpleName": "Rockets",
+  "abbreviation": "HOU",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/10-houston-rockets.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "New York Knicks",
+    "description": "New York's 2016 2nd round pick to Houston (via Portland to Sacramento then removal of protection from New York) [New York-Portland, 7/15/2012; New Orleans-Portland-Sacramento, 7/10/2013; New York-Sacramento, 8/6/2014; Houston-Sacramento, 9/17/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Denver Nuggets",
+    "description": "Denver's 2017 2nd round pick to Houston [Denver-Houston, 7/20/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "Portland's 2017 2nd round pick to Houston [Houston-Portland, 7/10/2013]; Houston may convey this pick to Denver (see Houston Debits)"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Houston Rockets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Houston Rockets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Houston Rockets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Houston Rockets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Houston Rockets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Houston Rockets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Houston Rockets",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Houston Rockets",
+    "description": "None"
+  }, {
+    "type": "SwapOtherTeam",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "New York Knicks",
+    "description": "Orlando has the right to swap its 2019 2nd round pick for Cleveland's 2019 2nd round pick or Houston's 2019 2nd round pick (via New York); if Orlando exercises this swap right, then New York will receive the Orlando pick and the less favorable of the Cleveland pick and the Houston pick; if Orlando does not exercise this swap right, then New York will receive the Cleveland pick and the Houston pick [Cleveland-New York-Oklahoma City, 1/5/2015; Houston-New York, 2/19/2015; New York-Orlando, 7/9/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from Cleveland' on New York Credits"
+  }, {
+    "type": "SwapOtherTeam",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Orlando Magic",
+    "description": "Orlando has the right to swap its 2019 2nd round pick for Cleveland's 2019 2nd round pick or Houston's 2019 2nd round pick (via New York); if Orlando exercises this swap right, then New York will receive the Orlando pick and the less favorable of the Cleveland pick and the Houston pick; if Orlando does not exercise this swap right, then New York will receive the Cleveland pick and the Houston pick [Cleveland-New York-Oklahoma City, 1/5/2015; Houston-New York, 2/19/2015; New York-Orlando, 7/9/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from Cleveland' on Orlando Credits"
+  }],
+  "deadMoney": [{
+    "playerName": "Chuck Hayes",
+    "instances": [{
+      "year": 2015,
+      "amount": 55722
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "Alexey Shved",
+    "amount": 1619096,
+    "expires": "2/19/16"
+  }, {
+    "player": "Isaiah Canaan",
+    "amount": 816482,
+    "expires": "2/19/16"
+  }],
+  "players": [2772, 201976, 201147, 203991, 1626155, 201935, 1626149, 2730, 203093, 201951, 203909, 202700, 1891, 201977]
+}, {
+  "teamId": 1610612754,
+  "name": "Indiana Pacers",
+  "location": "Indiana",
+  "simpleName": "Pacers",
+  "abbreviation": "IND",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/11-indiana-pacers.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Indiana Pacers",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Terran Petteway",
+    "instances": [{
+      "year": 2015,
+      "amount": 75000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [202730, 201978, 1626176, 101145, 202331, 201588, 201941, 203524, 101133, 101139, 203922, 201155, 1626167, 203963, 1626202]
+}, {
+  "teamId": 1610612746,
+  "name": "Los Angeles Clippers",
+  "location": "Los Angeles",
+  "simpleName": "Clippers",
+  "abbreviation": "LAC",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/12-la-clippers.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Swap",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Brooklyn Nets",
+    "description": "L.A. Clippers have the right to swap their 2016 2nd round pick protected for selections 56-60 for Brooklyn's 2016 2nd round pick (if the L.A. Clippers' pick falls within its protected range, then the L.A. Clippers' swap right and Brooklyn's obligation to the L.A. Clippers will be extinguished) [Brooklyn-L.A. Clippers, 7/11/2012]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Carlos Delfino",
+    "instances": [{
+      "year": 2015,
+      "amount": 650000
+    }, {
+      "year": 2016,
+      "amount": 650000
+    }, {
+      "year": 2017,
+      "amount": 650000
+    }, {
+      "year": 2018,
+      "amount": 650000
+    }]
+  }, {
+    "playerName": "Jordan Farmar",
+    "instances": [{
+      "year": 2015,
+      "amount": 510922
+    }, {
+      "year": 2016,
+      "amount": 510922
+    }, {
+      "year": 2017,
+      "amount": 510922
+    }]
+  }, {
+    "playerName": "Miroslav Raduljica",
+    "instances": [{
+      "year": 2015,
+      "amount": 300000
+    }, {
+      "year": 2016,
+      "amount": 300000
+    }, {
+      "year": 2017,
+      "amount": 300000
+    }, {
+      "year": 2018,
+      "amount": 300000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "Jared Cunningham",
+    "amount": 915243,
+    "expires": "1/7/16"
+  }],
+  "players": [202332, 2037, 1626183, 201933, 202325, 201599, 201601, 101108, 1718, 203143, 200755, 203085, 2746, 202362, 203912]
+}, {
+  "teamId": 1610612747,
+  "name": "Los Angeles Lakers",
+  "location": "Los Angeles",
+  "simpleName": "Lakers",
+  "abbreviation": "LAL",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/13-la-lakers.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Jonathan Holmes",
+    "instances": [{
+      "year": 2015,
+      "amount": 100000
+    }]
+  }, {
+    "playerName": "Michael Frazier",
+    "instances": [{
+      "year": 2015,
+      "amount": 50000
+    }]
+  }, {
+    "playerName": "Robert Upshaw",
+    "instances": [{
+      "year": 2015,
+      "amount": 35000
+    }]
+  }, {
+    "playerName": "Jabari Brown",
+    "instances": [{
+      "year": 2015,
+      "amount": 9942
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [101138, 204028, 1626148, 977, 203903, 201579, 1626273, 203527, 1626204, 203944, 1626156, 203135, 101150, 1897, 201156]
+}, {
+  "teamId": 1610612763,
+  "name": "Memphis Grizzlies",
+  "location": "Memphis",
+  "simpleName": "Grizzlies",
+  "abbreviation": "MEM",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/14-memphis-grizzli.png",
+  "hardcapped": true,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Boston Celtics",
+    "description": "Memphis will receive the less favorable of Boston's 2016 2nd round pick and Toronto's 2016 2nd round pick and Utah will receive the more favorable of these two picks (via Memphis) [Memphis-Toronto, 7/9/2009; Boston-Memphis-Oklahoma City, 1/7/2014; Memphis-Utah, 6/26/2014]; this pick conveyance is the same as the one described in '2016 second round draft pick from Toronto' on Memphis Credits"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Toronto Raptors",
+    "description": "Memphis will receive the less favorable of Boston's 2016 2nd round pick and Toronto's 2016 2nd round pick and Utah will receive the more favorable of these two picks (via Memphis) [Memphis-Toronto, 7/9/2009; Boston-Memphis-Oklahoma City, 1/7/2014; Memphis-Utah, 6/26/2014]; this pick conveyance is the same as the one described in '2016 second round draft pick from Boston' on Memphis Credits"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Fab Melo",
+    "instances": [{
+      "year": 2015,
+      "amount": 437080
+    }]
+  }, {
+    "playerName": "Jamaal Franklin",
+    "instances": [{
+      "year": 2015,
+      "amount": 163296
+    }, {
+      "year": 2016,
+      "amount": 163296
+    }, {
+      "year": 2017,
+      "amount": 163296
+    }, {
+      "year": 2018,
+      "amount": 163296
+    }]
+  }, {
+    "playerName": "Ryan Hollins",
+    "instances": [{
+      "year": 2015,
+      "amount": 16034
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "Luke Ridnour",
+    "amount": 396068,
+    "expires": "1/12/16"
+  }, {
+    "player": "Jon Leuer",
+    "amount": 122441,
+    "expires": "6/25/16"
+  }],
+  "players": [203919, 2754, 2440, 1713, 201596, 201144, 203516, 201188, 203210, 201145, 201584, 1626185, 2216, 203893, 201148]
+}, {
+  "teamId": 1610612748,
+  "name": "Miami Heat",
+  "location": "Miami",
+  "simpleName": "Heat",
+  "abbreviation": "MIA",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/15-miami-heat.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Orlando Magic",
+    "description": "Orlando's 2016 2nd round pick to Miami protected for selections 31-55 (if this pick falls within its protected range and is therefore not conveyed, then Orlando's obligation to Miami will be extinguished) [Miami-Orlando, 7/27/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Boston Celtics",
+    "description": "Boston's 2019 2nd round pick to Miami protected for selections 31-55 (if this pick falls within its protected range and is therefore not conveyed, then Boston's obligation to Miami will be extinguished) [Boston-Miami, 7/27/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Miami Heat",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Miami Heat",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Miami Heat",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Miami Heat",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Miami Heat",
+    "description": "None"
+  }],
+  "deadMoney": [],
+  "tradeExceptions": [{
+    "player": "Mario Chalmers",
+    "amount": 2129535,
+    "expires": "11/10/16"
+  }, {
+    "player": "Zoran Dragic",
+    "amount": 1706250,
+    "expires": "7/27/16"
+  }, {
+    "player": "Shabazz Napier",
+    "amount": 1294440,
+    "expires": "7/27/16"
+  }],
+  "players": [2365, 2547, 2736, 201609, 101123, 2617, 204020, 201177, 1626196, 203950, 2405, 2757, 2548, 202355, 1626159]
+}, {
+  "teamId": 1610612749,
+  "name": "Milwaukee Bucks",
+  "location": "Milwaukee",
+  "simpleName": "Bucks",
+  "abbreviation": "MIL",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/16-milwaukee-bucks.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "Milwaukee will receive the more favorable of Sacramento's 2016 2nd round pick protected for selections 56-60 and New Orleans' 2016 2nd round pick and New Orleans will receive the less favorable of these two picks (via Milwaukee's right to swap Sacramento for New Orleans) (if the Sacramento pick falls within its protected range, then Milwaukee's swap right and Sacramento's and New Orleans' obligations to Milwaukee will be extinguished) [New Orleans-Sacramento, 1/11/2010; New Orleans-Portland-Sacramento, 7/10/2013; Milwaukee-Sacramento, 7/12/2013]; this pick conveyance is the same as the one described in '2016 second round draft pick from Sacramento' on Milwaukee Credits"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Sacramento Kings",
+    "description": "Milwaukee will receive the more favorable of Sacramento's 2016 2nd round pick protected for selections 56-60 and New Orleans' 2016 2nd round pick and New Orleans will receive the less favorable of these two picks (via Milwaukee's right to swap Sacramento for New Orleans) (if the Sacramento pick falls within its protected range, then Milwaukee's swap right and Sacramento's and New Orleans' obligations to Milwaukee will be extinguished) [New Orleans-Sacramento, 1/11/2010; New Orleans-Portland-Sacramento, 7/10/2013; Milwaukee-Sacramento, 7/12/2013]; this pick conveyance is the same as the one described in '2016 second round draft pick from New Orleans' on Milwaukee Credits"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Dallas Mavericks",
+    "description": "Dallas' 2018 2nd round pick to Milwaukee protected for selections 31-55 [Dallas-Milwaukee, 7/9/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Washington Wizards",
+    "description": "Washington's 2020 2nd round pick to Milwaukee protected for selections 31-55 [Milwaukee-Washington, 7/9/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Larry Sanders",
+    "instances": [{
+      "year": 2015,
+      "amount": 1865546
+    }, {
+      "year": 2016,
+      "amount": 1865546
+    }, {
+      "year": 2017,
+      "amount": 1865546
+    }, {
+      "year": 2018,
+      "amount": 1865546
+    }, {
+      "year": 2019,
+      "amount": 1865546
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "Zaza Pachulia",
+    "amount": 520000,
+    "expires": "7/9/16"
+  }, {
+    "player": "Jared Dudley",
+    "amount": 4250000,
+    "expires": "7/9/16"
+  }],
+  "players": [203507, 201573, 203487, 203142, 203898, 203089, 203996, 201564, 203114, 202328, 203948, 203953, 203101, 202349, 1626173]
+}, {
+  "teamId": 1610612750,
+  "name": "Minnesota Timberwolves",
+  "location": "Minnesota",
+  "simpleName": "Timberwolves",
+  "abbreviation": "MIN",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/17-minnesota-timbe.png",
+  "hardcapped": true,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Houston Rockets",
+    "description": "Houston's 2016 2nd round pick to Minnesota protected for selections 31-45 (if this pick falls within its protected range and is therefore not conveyed, then Houston's obligation to Minnesota will be extinguished) [Houston-Minnesota-Philadelphia, 12/19/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "New Orleans' 2017 2nd round pick to Minnesota protected for selections 31-55 (if this pick falls within its protected range and is therefore not conveyed, then New Orleans' obligation to Minnesota will be extinguished) [Minnesota-New Orleans, 7/13/2012]"
+  }, {
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Miami Heat",
+    "description": "Miami's 2019 2nd round pick to Minnesota (via Charlotte) [Charlotte-Miami, 6/26/2014; Charlotte-Minnesota, 2/10/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Anthony Bennett",
+    "instances": [{
+      "year": 2015,
+      "amount": 3650000
+    }]
+  }, {
+    "playerName": "Lorenzo Brown",
+    "instances": [{
+      "year": 2015,
+      "amount": 75000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "Chase Budinger",
+    "amount": 5000000,
+    "expires": "7/12/16"
+  }, {
+    "player": "Troy Daniels",
+    "amount": 816482,
+    "expires": "2/10/16"
+  }, {
+    "player": "Mo Williams",
+    "amount": 500000,
+    "expires": "2/10/16"
+  }],
+  "players": [202357, 203476, 708, 1626145, 203897, 2755, 1889, 203498, 203940, 201593, 2419, 201937, 204014, 1626157, 203952]
+}, {
+  "teamId": 1610612740,
+  "name": "New Orleans Pelicans",
+  "location": "New Orleans",
+  "simpleName": "Pelicans",
+  "abbreviation": "NOP",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/19-new-orleans-pel.png",
+  "hardcapped": true,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Denver Nuggets",
+    "description": "Denver's 2016 2nd round pick to New Orleans (via Philadelphia) [Denver-Philadelphia-Washington, 2/20/2014; New Orleans-Philadelphia, 12/24/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "Philadelphia's 2017 2nd round pick to New Orleans [New Orleans-Philadelphia, 12/24/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "New Orleans Pelicans",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Jimmer Fredette",
+    "instances": [{
+      "year": 2015,
+      "amount": 507711
+    }]
+  }, {
+    "playerName": "Bryce Dejean-Jones",
+    "instances": [{
+      "year": 2015,
+      "amount": 50000
+    }]
+  }, {
+    "playerName": "Nate Robinson",
+    "instances": [{
+      "year": 2015,
+      "amount": 27861
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "Ish Smith",
+    "amount": 947276,
+    "expires": "12/24/16"
+  }, {
+    "player": "Russ Smith",
+    "amount": 507336,
+    "expires": "1/12/16"
+  }],
+  "players": [201582, 201583, 201600, 202337, 202708, 201967, 203076, 201962, 201936, 202087, 201569, 201950, 2570, 202347, 202397]
+}, {
+  "teamId": 1610612752,
+  "name": "New York Knicks",
+  "location": "New York",
+  "simpleName": "Knicks",
+  "abbreviation": "NYK",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/20-ny-knicks.png",
+  "hardcapped": true,
+  "picks": [{
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Houston Rockets",
+    "description": "Houston's 2017 2nd round pick to New York [Houston-New York, 2/19/2015]"
+  }, {
+    "type": "Swap",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "Orlando has the right to swap its 2019 2nd round pick for Cleveland's 2019 2nd round pick or Houston's 2019 2nd round pick (via New York); if Orlando exercises this swap right, then New York will receive the Orlando pick and the less favorable of the Cleveland pick and the Houston pick; if Orlando does not exercise this swap right, then New York will receive the Cleveland pick and the Houston pick [Cleveland-New York-Oklahoma City, 1/5/2015; Houston-New York, 2/19/2015; New York-Orlando, 7/9/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from Houston' on New York Credits"
+  }, {
+    "type": "Swap",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Houston Rockets",
+    "description": "Orlando has the right to swap its 2019 2nd round pick for Cleveland's 2019 2nd round pick or Houston's 2019 2nd round pick (via New York); if Orlando exercises this swap right, then New York will receive the Orlando pick and the less favorable of the Cleveland pick and the Houston pick; if Orlando does not exercise this swap right, then New York will receive the Cleveland pick and the Houston pick [Cleveland-New York-Oklahoma City, 1/5/2015; Houston-New York, 2/19/2015; New York-Orlando, 7/9/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from Cleveland' on New York Credits"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "New York Knicks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "New York Knicks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "New York Knicks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "New York Knicks",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "New York Knicks",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Thanasis Antetokounmpo",
+    "instances": [{
+      "year": 2015,
+      "amount": 75000
+    }]
+  }, {
+    "playerName": "Darion Atkins",
+    "instances": [{
+      "year": 2015,
+      "amount": 75000
+    }]
+  }, {
+    "playerName": "Travis Trice",
+    "instances": [{
+      "year": 2015,
+      "amount": 50000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [201167, 200811, 2546, 101181, 203921, 204038, 1626170, 201577, 203124, 204001, 202338, 202498, 2756, 202682]
+}, {
+  "teamId": 1610612760,
+  "name": "Oklahoma City Thunder",
+  "location": "Oklahoma City",
+  "simpleName": "Thunder",
+  "abbreviation": "OKC",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/33-oklahoma-city-t.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Charlotte Hornets",
+    "description": "Charlotte's 2nd round pick to Oklahoma City protected for selections 56-60 in 2016 and unprotected in 2017 [Charlotte-Oklahoma City, 6/25/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Sacramento Kings",
+    "description": "Sacramento's 2016 2nd round pick to Oklahoma City (via New Orleans) protected for selections 31-55 (if this pick falls within its protected range and is therefore not conveyed, then Sacramento's obligation to Oklahoma City will be extinguished) [New Orleans-Sacramento, 1/11/2010; New Orleans-Oklahoma City, 2/19/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Memphis Grizzlies",
+    "description": "Memphis' 2017 2nd round pick to Oklahoma City protected for selections 31-35; if this pick falls within its protected range and is therefore not conveyed, then Memphis will instead convey its 2018 2nd round pick to Oklahoma City [Boston-Memphis-Oklahoma City, 1/7/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Boston Celtics",
+    "description": "Boston's 2018 2nd round pick to Oklahoma City protected for selections 31-55 (if this pick falls within its protected range and is therefore not conveyed, then Boston's obligation to Oklahoma City will be extinguished) [Boston-Oklahoma City, 7/14/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "None"
+  }],
+  "deadMoney": [],
+  "tradeExceptions": [{
+    "player": "Luke Ridnour",
+    "amount": 2750000,
+    "expires": "6/30/16"
+  }, {
+    "player": "Reggie Jackson",
+    "amount": 2204369,
+    "expires": "2/19/16"
+  }, {
+    "player": "Perry Jones",
+    "amount": 2038206,
+    "expires": "7/14/16"
+  }, {
+    "player": "Lance Thomas",
+    "amount": 915243,
+    "expires": "1/5/16"
+  }, {
+    "player": "Ish Smith",
+    "amount": 861405,
+    "expires": "2/19/16"
+  }],
+  "players": [203500, 201571, 2555, 201142, 203962, 201586, 202683, 203956, 201627, 200779, 1626166, 203460, 202713, 203079, 201566]
+}, {
+  "teamId": 1610612753,
+  "name": "Orlando Magic",
+  "location": "Orlando",
+  "simpleName": "Magic",
+  "abbreviation": "ORL",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/21-orlando-magic.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Chicago Bulls",
+    "description": "Chicago will convey the more favorable of its 2016 2nd round pick and Portland's 2016 2nd round pick to Orlando (via Cleveland to Chicago) [Cleveland-Portland, 6/27/2013; Chicago-Cleveland, 1/7/2014; Chicago-Orlando, 7/14/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Sacramento Kings",
+    "description": "Sacramento's 2017 2nd round pick to Orlando (via Boston to Cleveland) protected for selections 31-55 (if this pick falls within its protected range and is therefore not conveyed, then Sacramento's obligation to Orlando will be extinguished) [Boston-Sacramento, 2/24/2011; Boston-Cleveland, 9/25/2014; Cleveland-Orlando, 1/12/2016]"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "If at least two years after the L.A. Lakers conveyed a 1st round pick to Philadelphia, then the L.A. Lakers' 1st round pick to Orlando protected for selections 1-5 in 2018 and unprotected in 2019; if the L.A. Lakers have not conveyed a 1st round pick to Philadelphia by 2017, then the L.A. Lakers will instead convey their 2017 2nd round pick and 2018 2nd round pick to Orlando [L.A. Lakers-Orlando, 8/10/2012]"
+  }, {
+    "type": "Swap",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "Orlando has the right to swap its 2019 2nd round pick for Cleveland's 2019 2nd round pick or Houston's 2019 2nd round pick (via New York); if Orlando exercises this swap right, then New York will receive the Orlando pick and the less favorable of the Cleveland pick and the Houston pick; if Orlando does not exercise this swap right, then New York will receive the Cleveland pick and the Houston pick [Cleveland-New York-Oklahoma City, 1/5/2015; Houston-New York, 2/19/2015; New York-Orlando, 7/9/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from Houston' on Orlando Credits"
+  }, {
+    "type": "Swap",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Houston Rockets",
+    "description": "Orlando has the right to swap its 2019 2nd round pick for Cleveland's 2019 2nd round pick or Houston's 2019 2nd round pick (via New York); if Orlando exercises this swap right, then New York will receive the Orlando pick and the less favorable of the Cleveland pick and the Houston pick; if Orlando does not exercise this swap right, then New York will receive the Cleveland pick and the Houston pick [Cleveland-New York-Oklahoma City, 1/5/2015; Houston-New York, 2/19/2015; New York-Orlando, 7/9/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from Cleveland' on Orlando Credits"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Orlando Magic",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Orlando Magic",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Orlando Magic",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Orlando Magic",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Orlando Magic",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Orlando Magic",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Orlando Magic",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Orlando Magic",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Orlando Magic",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Orlando Magic",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Orlando Magic",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Joe Harris",
+    "instances": [{
+      "year": 2015,
+      "amount": 845059
+    }]
+  }, {
+    "playerName": "Melvin Ejim",
+    "instances": [{
+      "year": 2015,
+      "amount": 150000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "Mo Harkless",
+    "amount": 1599619,
+    "expires": "7/14/15"
+  }],
+  "players": [203473, 203095, 101112, 203932, 202699, 1626209, 203906, 203894, 203094, 203506, 203901, 201160, 202696, 201228]
+}, {
+  "teamId": 1610612755,
+  "name": "Philadelphia 76ers",
+  "location": "Philadelphia",
+  "simpleName": "76ers",
+  "abbreviation": "PHI",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/22-philadelphia-76.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Swap",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Golden State Warriors",
+    "description": "Philadelphia has the right to swap the less favorable of Miami's 2016 1st round pick protected for selections 1-10 and Oklahoma City's 2016 1st round pick protected for selections 1-15, or either of these two picks if only one falls outside its protected range, for Golden State's 2016 1st round pick (if both the Miami pick and the Oklahoma pick fall within their protected ranges, then Philadelphia's swap right and Golden State's obligation to Philadelphia will be extinguished) [Cleveland-Miami, 7/9/2010; Cleveland-Minnesota-Philadelphia, 8/23/2014; Cleveland-New York-Oklahoma City, 1/5/2015; Cleveland-Denver, 1/7/2015; Denver-Philadelphia, 2/19/2015; Golden State-Philadelphia, 7/31/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "L.A. Lakers' 1st round pick to Philadelphia (via Phoenix) protected for selections 1-3 in 2016 and 1-3 in 2017 and unprotected in 2018 [L.A. Lakers-Phoenix, 7/11/2012; Milwaukee-Philadelphia-Phoenix, 2/19/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Miami Heat",
+    "description": "Miami's 1st round pick to Philadelphia (via Cleveland) protected for selections 1-10 in 2016 and unprotected in 2017 [Cleveland-Miami, 7/9/2010; Cleveland-Minnesota-Philadelphia, 8/23/2014]; Philadelphia may swap the 2016 pick to Golden State (see Philadelphia Credits)"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "Oklahoma City's 1st round pick to Philadelphia (via Cleveland to Denver) protected for selections 1-15 in 2016 and 1-15 in 2017; if Oklahoma City has not conveyed a 1st round pick to Philadelphia by 2017, then Oklahoma City will instead convey its 2018 2nd round pick and 2019 2nd round pick to Philadelphia [Cleveland-New York-Oklahoma City, 1/5/2015; Cleveland-Denver, 1/7/2015; Denver-Philadelphia, 2/19/2015]; Philadelphia may swap the 2016 pick to Golden State (see Philadelphia Credits)"
+  }, {
+    "type": "Swap",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Sacramento Kings",
+    "description": "Philadelphia has the right to swap its 2016 1st round pick for Sacramento's 2016 1st round pick protected for selections 11-30 (if the Sacramento pick falls within its protected range, then Philadelphia's swap right and Sacramento's obligation to Philadelphia will be extinguished) [Philadelphia-Sacramento, 7/9/2015]"
+  }, {
+    "type": "Swap",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Sacramento Kings",
+    "description": "If Sacramento conveys a 1st round pick to Chicago in 2016, then Philadelphia has the right to swap its 2017 1st round pick for Sacramento's 2017 1st round pick; if Sacramento does not convey a 1st round pick to Chicago in 2016, then Philadelphia has the right to swap its 2017 1st round pick for Sacramento's 2017 1st round pick protected for selections 11-30 (if the Sacramento pick falls within its protected range, then Philadelphia's swap right and Sacramento's obligation to Philadelphia will be extinguished) [Philadelphia-Sacramento, 7/9/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Sacramento Kings",
+    "description": "Sacramento's 1st round pick to Philadelphia protected for selections 1-10 in 2018 (conveyable if Sacramento conveys a 1st round pick to Chicago in 2016) and unprotected in 2019 [Philadelphia-Sacramento, 7/9/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Brooklyn Nets",
+    "description": "Philadelphia will receive the more favorable of Cleveland's 2018 2nd round pick and Brooklyn's 2018 2nd round pick and Charlotte will receive the less favorable of these two picks (via Philadelphia's right to swap Cleveland for Brooklyn) [Cleveland-Philadelphia, 9/26/2014; Brooklyn-Philadelphia, 12/11/2014; Brooklyn-Charlotte, 6/25/2015]; this pick conveyance is the same as the one described in '2018 second round draft pick from Cleveland' on Philadelphia Credits"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "Philadelphia will receive the more favorable of Cleveland's 2018 2nd round pick and Brooklyn's 2018 2nd round pick and Charlotte will receive the less favorable of these two picks (via Philadelphia's right to swap Cleveland for Brooklyn) [Cleveland-Philadelphia, 9/26/2014; Brooklyn-Philadelphia, 12/11/2014; Brooklyn-Charlotte, 6/25/2015]; this pick conveyance is the same as the one described in '2018 second round draft pick from Brooklyn' on Philadelphia Credits"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "Philadelphia will receive the more favorable of the L.A. Clippers' 2018 2nd round pick and New York's 2018 2nd round pick and New York will receive the less favorable of these two picks (via Philadelphia's right to swap L.A. Clippers for New York) [L.A. Clippers-Philadelphia, 2/20/2014; New York-Philadelphia, 10/27/2014]; this pick conveyance is the same as the one described in '2018 second round draft pick from New York' on Philadelphia Credits"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "New York Knicks",
+    "description": "Philadelphia will receive the more favorable of the L.A. Clippers' 2018 2nd round pick and New York's 2018 2nd round pick and New York will receive the less favorable of these two picks (via Philadelphia's right to swap L.A. Clippers for New York) [L.A. Clippers-Philadelphia, 2/20/2014; New York-Philadelphia, 10/27/2014]; this pick conveyance is the same as the one described in '2018 second round draft pick from L.A. Clippers' on Philadelphia Credits"
+  }, {
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Milwaukee Bucks",
+    "description": "Philadelphia will receive the more favorable of Milwaukee's 2019 2nd round pick and Sacramento's 2019 2nd round pick and Sacramento will receive the less favorable of these two picks (via Philadelphia's right to swap Milwaukee for Sacramento (via Brooklyn to Philadelphia)) [Milwaukee-Sacramento, 7/12/2013; Brooklyn-Milwaukee, 6/30/2014; Brooklyn-Philadelphia, 10/24/2014]; this pick conveyance is the same as the one described in '2019 second round draft pick from Sacramento' on Philadelphia Credits"
+  }, {
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "New York Knicks",
+    "description": "New York's 2019 2nd round pick to Philadelphia [New York-Philadelphia, 10/27/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Sacramento Kings",
+    "description": "Philadelphia will receive the more favorable of Milwaukee's 2019 2nd round pick and Sacramento's 2019 2nd round pick and Sacramento will receive the less favorable of these two picks (via Philadelphia's right to swap Milwaukee for Sacramento (via Brooklyn to Philadelphia)) [Milwaukee-Sacramento, 7/12/2013; Brooklyn-Milwaukee, 6/30/2014; Brooklyn-Philadelphia, 10/24/2014]; this pick conveyance is the same as the one described in '2019 second round draft pick from Milwaukee' on Philadelphia Credits"
+  }, {
+    "type": "Trade",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Brooklyn Nets",
+    "description": "Brooklyn's 2020 2nd round pick to Philadelphia [Brooklyn-Philadelphia, 12/11/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "New York Knicks",
+    "description": "New York's 2020 2nd round pick to Philadelphia [New York-Philadelphia, 6/26/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "New York Knicks",
+    "description": "New York's 2021 2nd round pick to Philadelphia [New York-Philadelphia, 6/26/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "JaVale McGee",
+    "instances": [{
+      "year": 2015,
+      "amount": 12000000
+    }]
+  }, {
+    "playerName": "Gerald Wallace",
+    "instances": [{
+      "year": 2015,
+      "amount": 10105855
+    }]
+  }, {
+    "playerName": "Tony Wroten Jr.",
+    "instances": [{
+      "year": 2015,
+      "amount": 2179354
+    }]
+  }, {
+    "playerName": "Pierre Jackson",
+    "instances": [{
+      "year": 2015,
+      "amount": 750000
+    }]
+  }, {
+    "playerName": "Christian Wood",
+    "instances": [{
+      "year": 2015,
+      "amount": 222392
+    }]
+  }, {
+    "playerName": "Scottie Wilbekin",
+    "instances": [{
+      "year": 2015,
+      "amount": 200000
+    }]
+  }, {
+    "playerName": "Phil Pressey",
+    "instances": [{
+      "year": 2015,
+      "amount": 11144
+    }]
+  }, {
+    "playerName": "J.P. Tokoto",
+    "instances": [{
+      "year": 2015,
+      "amount": 6178
+    }]
+  }, {
+    "playerName": "Jordan McRae",
+    "instances": [{
+      "year": 2015,
+      "amount": 6178
+    }]
+  }, {
+    "playerName": "Jordan Railey",
+    "instances": [{
+      "year": 2015,
+      "amount": 6178
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [203477, 203496, 203954, 203924, 1626158, 201171, 203088, 204456, 203457, 1626143, 203515, 203960, 203917, 203138, 1626174, 203100]
+}, {
+  "teamId": 1610612756,
+  "name": "Phoenix Suns",
+  "location": "Phoenix",
+  "simpleName": "Suns",
+  "abbreviation": "PHX",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/23-phoenix-suns.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "Cleveland's 1st round pick to Phoenix (via Boston) protected for selections 1-10 in 2016, 1-10 in 2017 and 1-10 in 2018 and unprotected in 2019 [Boston-Brooklyn-Cleveland, 7/10/2014; Boston-Phoenix, 2/19/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Miami Heat",
+    "description": "Miami's 1st round pick to Phoenix protected for selections 1-7 in 2018 (conveyable if Miami conveys a 1st round pick to Philadelphia in 2016) and unprotected in 2019 [Miami-New Orleans-Phoenix, 2/19/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Detroit Pistons",
+    "description": "Detroit's 2020 2nd round pick to Phoenix [Detroit-Phoenix, 7/9/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Miami Heat",
+    "description": "Miami's 2021 1st round pick to Phoenix [Miami-New Orleans-Phoenix, 2/19/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Phoenix Suns",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Michael Beasley",
+    "instances": [{
+      "year": 2015,
+      "amount": 777778
+    }, {
+      "year": 2016,
+      "amount": 777777
+    }]
+  }, {
+    "playerName": "Corey Jefferson",
+    "instances": [{
+      "year": 2015,
+      "amount": 372820
+    }]
+  }, {
+    "playerName": "Bryce Cotton",
+    "instances": [{
+      "year": 2015,
+      "amount": 228663
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [202339, 1626164, 2199, 203955, 203462, 203928, 202688, 203458, 202720, 202693, 101179, 203141, 200782, 203933, 201603]
+}, {
+  "teamId": 1610612757,
+  "name": "Portland Trail Blazers",
+  "location": "Portland",
+  "simpleName": "Trail Blazers",
+  "abbreviation": "POR",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/24-portland-trailb.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Los Angeles Lakers",
+    "description": "Portland will receive the more favorable of the L.A. Lakers' 2019 2nd round pick (via Indiana to Cleveland) and Minnesota's 2019 2nd round pick (via Cleveland) and Cleveland will receive the less favorable of these two picks [Cleveland-Minnesota, 6/25/2015; Indiana-L.A. Lakers, 7/9/2015; Cleveland-Indiana, 7/23/2015; Cleveland-Portland, 7/27/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from Minnesota' on Portland Credits"
+  }, {
+    "type": "Trade",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Minnesota Timberwolves",
+    "description": "Portland will receive the more favorable of the L.A. Lakers' 2019 2nd round pick (via Indiana to Cleveland) and Minnesota's 2019 2nd round pick (via Cleveland) and Cleveland will receive the less favorable of these two picks [Cleveland-Minnesota, 6/25/2015; Indiana-L.A. Lakers, 7/9/2015; Cleveland-Indiana, 7/23/2015; Cleveland-Portland, 7/27/2015]; this pick conveyance is the same as the one described in '2019 second round draft pick from L.A. Lakers' on Portland Credits"
+  }, {
+    "type": "Trade",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Cleveland Cavaliers",
+    "description": "Cleveland's 2020 2nd round pick to Portland [Cleveland-Portland, 7/27/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "None"
+  }, {
+    "type": "SwapOtherTeam",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Sacramento Kings",
+    "description": "Sacramento has the right to swap its 2018 2nd round pick for Portland's 2018 2nd round pick [New Orleans-Portland-Sacramento, 7/10/2013]; Portland may convey the less favorable of these two picks to Denver (see Portland Debits)"
+  }],
+  "deadMoney": [{
+    "playerName": "Mike Miller",
+    "instances": [{
+      "year": 2015,
+      "amount": 3083181
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [1626146, 202329, 1626192, 203459, 202334, 204025, 203090, 201945, 2549, 203086, 203081, 203468, 1626242, 203486, 203943]
+}, {
+  "teamId": 1610612758,
+  "name": "Sacramento Kings",
+  "location": "Sacramento",
+  "simpleName": "Kings",
+  "abbreviation": "SAC",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/25-sacramento-king.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "San Antonio Spurs",
+    "description": "San Antonio's 2016 2nd round pick to Sacramento [Sacramento-San Antonio, 7/9/2015]"
+  }, {
+    "type": "Swap",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Portland Trail Blazers",
+    "description": "Sacramento has the right to swap its 2018 2nd round pick for Portland's 2018 2nd round pick [New Orleans-Portland-Sacramento, 7/10/2013]; Portland may convey the less favorable of these two picks to Denver (see Portland Debits)"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Sacramento Kings",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Sacramento Kings",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Sacramento Kings",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Sacramento Kings",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Sacramento Kings",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Sacramento Kings",
+    "description": "None"
+  }, {
+    "type": "SwapOtherTeam",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Philadelphia 76ers",
+    "description": "If Sacramento conveys a 1st round pick to Chicago in 2016, then Philadelphia has the right to swap its 2017 1st round pick for Sacramento's 2017 1st round pick; if Sacramento does not convey a 1st round pick to Chicago in 2016, then Philadelphia has the right to swap its 2017 1st round pick for Sacramento's 2017 1st round pick protected for selections 11-30 (if the Sacramento pick falls within its protected range, then Philadelphia's swap right and Sacramento's obligation to Philadelphia will be extinguished) [Philadelphia-Sacramento, 7/9/2015]"
+  }],
+  "deadMoney": [{
+    "playerName": "Wayne Ellington",
+    "instances": [{
+      "year": 2015,
+      "amount": 923780
+    }, {
+      "year": 2016,
+      "amount": 923780
+    }]
+  }, {
+    "playerName": "Marshall Henderson",
+    "instances": [{
+      "year": 2015,
+      "amount": 35000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [203112, 202341, 201158, 2406, 201956, 1626161, 201954, 202326, 203552, 1626251, 200752, 201585, 203463, 203961, 200765]
+}, {
+  "teamId": 1610612759,
+  "name": "San Antonio Spurs",
+  "location": "San Antonio",
+  "simpleName": "Spurs",
+  "abbreviation": "SAS",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/26-san-antonio-spu.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Charlotte Hornets",
+    "description": "Charlotte's 2016 2nd round pick to San Antonio protected for selections 31-55 (if this pick falls within its protected range and is therefore not conveyed, then Charlotte's obligation to San Antonio will be extinguished) [Charlotte-San Antonio, 2/18/2010]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Atlanta Hawks",
+    "description": "Atlanta's 2017 2nd round pick to San Antonio protected for selections 31-55 [Atlanta-San Antonio, 7/9/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "San Antonio Spurs",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "San Antonio Spurs",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "San Antonio Spurs",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "San Antonio Spurs",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "San Antonio Spurs",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "San Antonio Spurs",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "San Antonio Spurs",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "San Antonio Spurs",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "San Antonio Spurs",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "San Antonio Spurs",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "San Antonio Spurs",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Jimmer Fredette",
+    "instances": [{
+      "year": 2015,
+      "amount": 507711
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [200746, 203937, 2588, 2446, 2564, 1495, 1938, 201980, 202695, 1626246, 203492, 201988, 2225, 203613, 2561]
+}, {
+  "teamId": 1610612761,
+  "name": "Toronto Raptors",
+  "location": "Toronto",
+  "simpleName": "Raptors",
+  "abbreviation": "TOR",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/28-toronto-raptors.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "New York Knicks",
+    "description": "New York will convey the less favorable of its 2016 1st round pick and Denver's 2016 1st round pick to Toronto (via Denver's right to swap for New York) [Denver-Minnesota-New York, 2/22/2011; New York-Toronto, 7/10/2013]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Los Angeles Clippers",
+    "description": "L.A. Clippers' 1st round pick to Toronto (via Milwaukee) protected for selections 1-14 in 2017, 1-14 in 2018 and 1-14 in 2019; if the L.A. Clippers have not conveyed a 1st round pick to Toronto by 2019, then the L.A. Clippers will instead convey their 2020 2nd round pick and 2021 2nd round pick to Toronto [L.A. Clippers-Milwaukee, 8/26/2014; Milwaukee-Toronto, 6/25/2015]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Toronto Raptors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Toronto Raptors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Toronto Raptors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Toronto Raptors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Toronto Raptors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Toronto Raptors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Toronto Raptors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Toronto Raptors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Toronto Raptors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Toronto Raptors",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Toronto Raptors",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Ronald Roberts",
+    "instances": [{
+      "year": 2015,
+      "amount": 75000
+    }]
+  }, {
+    "playerName": "Shannon Scott",
+    "instances": [{
+      "year": 2015,
+      "amount": 25000
+    }]
+  }, {
+    "playerName": "Axel Toupane",
+    "instances": [{
+      "year": 2015,
+      "amount": 25000
+    }]
+  }, {
+    "playerName": "Michale Kyser",
+    "instances": [{
+      "year": 2015,
+      "amount": 25000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [203461, 202687, 203998, 201960, 201942, 201949, 202709, 200768, 203512, 202335, 1626181, 203082, 2449, 202685, 1626153]
+}, {
+  "teamId": 1610612762,
+  "name": "Utah Jazz",
+  "location": "Utah",
+  "simpleName": "Jazz",
+  "abbreviation": "UTA",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/29-utah-jazz.png",
+  "hardcapped": false,
+  "picks": [{
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Boston Celtics",
+    "description": "Utah will receive the more favorable of Boston's 2016 2nd round pick and Toronto's 2016 2nd round pick (via Memphis) and Memphis will receive the less favorable of these two picks [Memphis-Toronto, 7/9/2009; Boston-Memphis-Oklahoma City, 1/7/2014; Memphis-Utah, 6/26/2014]; this pick conveyance is the same as the one described in '2016 second round draft pick from Toronto' on Utah Credits"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Golden State Warriors",
+    "description": "Golden State's 2016 2nd round pick to Utah [Denver-Golden State-Utah, 7/10/2013]"
+  }, {
+    "type": "Trade",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Toronto Raptors",
+    "description": "Utah will receive the more favorable of Boston's 2016 2nd round pick and Toronto's 2016 2nd round pick (via Memphis) and Memphis will receive the less favorable of these two picks [Memphis-Toronto, 7/9/2009; Boston-Memphis-Oklahoma City, 1/7/2014; Memphis-Utah, 6/26/2014]; this pick conveyance is the same as the one described in '2016 second round draft pick from Boston' on Utah Credits"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Golden State Warriors",
+    "description": "Golden State's 2017 1st round pick to Utah [Denver-Golden State-Utah, 7/10/2013]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Detroit Pistons",
+    "description": "Detroit's 2017 2nd round pick to Utah [Detroit-Oklahoma City-Utah, 2/19/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Golden State Warriors",
+    "description": "Golden State's 2017 2nd round pick to Utah [Denver-Golden State-Utah, 7/10/2013]"
+  }, {
+    "type": "Trade",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "New York Knicks",
+    "description": "New York's 2017 2nd round pick to Utah (via Toronto) [New York-Toronto, 7/10/2013; Toronto-Utah, 7/10/2014]"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Oklahoma City Thunder",
+    "description": "Oklahoma City's 1st round pick to Utah protected for selections 1-14 in 2018 (conveyable if Oklahoma City conveys a 1st round pick to Philadelphia in 2016), 1-14 in 2019 and 1-14 in 2020; if Oklahoma City has not conveyed a 1st round pick to Utah by 2020, then Oklahoma City will instead convey its 2020 2nd round pick and 2021 2nd round pick to Utah [Detroit-Oklahoma City-Utah, 2/19/2015]"
+  }, {
+    "type": "Trade",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Denver Nuggets",
+    "description": "Denver's 2018 2nd round pick to Utah [Denver-Golden State-Utah, 7/10/2013]"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 2,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 2,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 2,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Utah Jazz",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Grant Jerrett",
+    "instances": [{
+      "year": 2015,
+      "amount": 947276
+    }]
+  }, {
+    "playerName": "Elijah Millsap",
+    "instances": [{
+      "year": 2015,
+      "amount": 362878
+    }]
+  }, {
+    "playerName": "J.J. O&amp;apos;Brien",
+    "instances": [{
+      "year": 2015,
+      "amount": 75000
+    }]
+  }, {
+    "playerName": "Treveon Graham",
+    "instances": [{
+      "year": 2015,
+      "amount": 75000
+    }]
+  }, {
+    "playerName": "Phil Pressey",
+    "instances": [{
+      "year": 2015,
+      "amount": 11144
+    }]
+  }, {
+    "playerName": "Erik Atkins",
+    "instances": [{
+      "year": 2015,
+      "amount": 3089
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "None",
+    "amount": 0,
+    "expires": "None"
+  }],
+  "players": [202344, 203504, 202692, 203957, 202324, 203497, 202330, 203918, 204060, 203187, 1626168, 202407, 203526, 202353, 203481]
+}, {
+  "teamId": 1610612764,
+  "name": "Washington Wizards",
+  "location": "Washington",
+  "simpleName": "Wizards",
+  "abbreviation": "WAS",
+  "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/30-washington-dc.png",
+  "hardcapped": true,
+  "picks": [{
+    "type": "Own Pick",
+    "year": 2016,
+    "round": 1,
+    "originalOwner": "Washington Wizards",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 1,
+    "originalOwner": "Washington Wizards",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2017,
+    "round": 2,
+    "originalOwner": "Washington Wizards",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 1,
+    "originalOwner": "Washington Wizards",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2018,
+    "round": 2,
+    "originalOwner": "Washington Wizards",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2019,
+    "round": 1,
+    "originalOwner": "Washington Wizards",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2020,
+    "round": 1,
+    "originalOwner": "Washington Wizards",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 1,
+    "originalOwner": "Washington Wizards",
+    "description": "None"
+  }, {
+    "type": "Own Pick",
+    "year": 2021,
+    "round": 2,
+    "originalOwner": "Washington Wizards",
+    "description": "None"
+  }],
+  "deadMoney": [{
+    "playerName": "Martell Webster",
+    "instances": [{
+      "year": 2015,
+      "amount": 5613500
+    }, {
+      "year": 2016,
+      "amount": 833334
+    }, {
+      "year": 2017,
+      "amount": 833333
+    }, {
+      "year": 2018,
+      "amount": 833333
+    }]
+  }, {
+    "playerName": "Ryan Hollins",
+    "instances": [{
+      "year": 2015,
+      "amount": 16034
+    }]
+  }, {
+    "playerName": "Jaleel Roberts",
+    "instances": [{
+      "year": 2015,
+      "amount": 10000
+    }]
+  }],
+  "tradeExceptions": [{
+    "player": "Andre Miller",
+    "amount": 250000,
+    "expires": "2/19/16"
+  }],
+  "players": [101187, 203078, 201971, 201162, 2400, 101162, 2403, 200797, 2743, 202390, 1626162, 203490, 201196, 202066, 202322]
+}]

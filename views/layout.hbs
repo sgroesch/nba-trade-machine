@@ -2,12 +2,12 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>{{pageHeader}}</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css" media="screen" title="no title" charset="utf-8">
-    <link rel="stylesheet" href="stylesheets/style.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="/stylesheets/style.css" media="screen" title="no title" charset="utf-8">
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
-    <script type="text/javascript" src="/javascripts/styling.js"></script>
+    <script type="text/javascript" src="/javascripts/layout.js"></script>
   </head>
   <body>
     <div class="navbar-fixed">
@@ -17,14 +17,21 @@
               <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
               <ul class="right hide-on-med-and-down">
                   <li><a href="#modalLogin" class="modal-trigger"><i class="mdi-action-perm-identity"></i></a></li>
-                  <li><a href="#"><i class="mdi-navigation-refresh"></i></a></li>
+                  <li><a href="/"><i class="mdi-action-autorenew"></i></a></li>
                   <li><a href="#"><i class="mdi-navigation-more-vert"></i></a></li>
               </ul>
               <ul class="side-nav" id="mobile-demo">
-                  <li><a href="#">Trade Checker</a></li>
-                  <li><a href="#">Public</a></li>
-                  <li><a href="#">Data</a></li>
+                  <li><a href="/">Trade Checker</a></li>
+                  {{#if user}}
+                    <li><a href="/trades/mytrades">My Trades</a></li>
+                  {{/if}}
+                  <li><a href="/trades">Public Trades</a></li>
+                  <li><a href="/data">NBA Data</a></li>
+                  <li><a href="/data/leagueleaders">League Leaders</a></li>
                   <li><a href="#modalLogin" class="modal-trigger">Account</a></li>
+                  {{#if user}}
+                    <li><a href="/accounts/logout">Logout</a></li>
+                  {{/if}}
               </ul>
           </div>
       </nav>

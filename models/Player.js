@@ -1,28 +1,30 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
-var Contract = new Schema({
-  playerId: Number,
-  year: Number,
-  salary: Number,
-  option: String
-})
+// var Contract = new Schema({
+//   year: Number,
+//   salary: Number,
+//   option: String
+// })
 
 var Player = new Schema({
   playerId: Number,
   name: String,
-  seasonExp: Number,
-  position: String,
+  firstName: String,
+  lastName: String,
+  // seasonExp: Number,
+  // position: String,
   teamId: Number,
   teamName: String,
-  teamCity: String,
-  signedUsing: String,
   freeAgencyStatus: String,
-  contract: [Contract]
-
+  contract: [{
+    year: Number,
+    salary: Number,
+    option: String
+  }]
 });
 
 // Add country, school, birthplace so can map data
 
 module.exports.Player = mongoose.model('Player', Player);
-module.exports.Contract = mongoose.model('Contract', Contract);
+// module.exports.Contract = mongoose.model('Contract', Contract);

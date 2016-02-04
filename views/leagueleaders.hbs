@@ -1,0 +1,39 @@
+<script type="text/javascript" src="http://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+<div class="row">
+  <div id="admin" class="col s12">
+    <div class="card material-table">
+      <table id="datatable" class="sortable">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Min</th>
+            <th>Points</th>
+            <th>Rebounds</th>
+            <th>Assists</th>
+            <th>Steals</th>
+            <th>Blocks</th>
+            <th>FG%</th>
+            <th>3P%</th>
+            <th>FT%</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{#each data}}
+            <tr>
+              <td><a href="/data/players/{{id}}">{{name}}</a></td>
+              <td>{{min}}</td>
+              <td>{{points}}</td>
+              <td>{{rebounds}}</td>
+              <td>{{assists}}</td>
+              <td>{{steals}}</td>
+              <td>{{blocks}}</td>
+              <td>{{FG}}</td>
+              <td>{{TP}}</td>
+              <td>{{FT}}</td>
+            </tr>
+          {{/each}}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
