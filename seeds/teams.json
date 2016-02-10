@@ -6,6 +6,7 @@
   "abbreviation": "ATL",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/1-atlanta-hawks.png",
   "hardcapped": false,
+  "salaryTotals": [71472369, 60374353, 22487154, 0, 0],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -124,6 +125,7 @@
   "abbreviation": "BOS",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/2-boston-celtics.png",
   "hardcapped": false,
+  "salaryTotals": [73734748, 50971630, 33724854, 13945042, 7815533],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -302,6 +304,7 @@
   "abbreviation": "BKN",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/38-brooklyn-nets.png",
   "hardcapped": false,
+  "salaryTotals": [77704744, 51374547, 38262258, 18477728, 0],
   "picks": [{
     "type": "Swap",
     "year": 2017,
@@ -410,6 +413,7 @@
   "abbreviation": "CHA",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/3-charlotte-horne.png",
   "hardcapped": true,
+  "salaryTotals": [76532845, 48109008, 40430573, 36554416, 14314607],
   "picks": [{
     "type": "Trade",
     "year": 2018,
@@ -520,6 +524,7 @@
   "abbreviation": "CHI",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/4-chicago-bulls.png",
   "hardcapped": false,
+  "salaryTotals": [88691042, 74375045, 28683232, 22335970, 19841627],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -620,6 +625,7 @@
   "abbreviation": "CLE",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/5-cleveland-cavs.png",
   "hardcapped": false,
+  "salaryTotals": [109270292, 106690633, 78248054, 72699014, 65464580],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -712,6 +718,7 @@
   "abbreviation": "DAL",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/6-dallas-mavs.png",
   "hardcapped": false,
+  "salaryTotals": [70094409, 61877648, 29963799, 24849411, 0],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -830,6 +837,7 @@
   "abbreviation": "DEN",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/7-denver-nuggets.png",
   "hardcapped": false,
+  "salaryTotals": [65614941, 59263505, 59603425, 32334587, 0],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -963,6 +971,7 @@
   "abbreviation": "DET",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/8-detroit-pistons.png",
   "hardcapped": false,
+  "salaryTotals": [67301314, 54280432, 31612546, 26358880, 18086957],
   "picks": [{
     "type": "Own Pick",
     "year": 2016,
@@ -1075,6 +1084,7 @@
   "abbreviation": "GSW",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/9-golden-state.png",
   "hardcapped": false,
+  "salaryTotals": [95487927, 81894486, 35459990, 38685371, 18539130],
   "picks": [{
     "type": "Own Pick",
     "year": 2018,
@@ -1143,6 +1153,7 @@
   "abbreviation": "HOU",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/10-houston-rockets.png",
   "hardcapped": false,
+  "salaryTotals": [88122663, 82094246, 47021418, 7787122, 0],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -1247,6 +1258,7 @@
   "abbreviation": "IND",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/11-indiana-pacers.png",
   "hardcapped": false,
+  "salaryTotals": [71540082, 59260937, 52364369, 38090116, 0],
   "picks": [{
     "type": "Own Pick",
     "year": 2016,
@@ -1341,6 +1353,7 @@
   "abbreviation": "LAC",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/12-la-clippers.png",
   "hardcapped": false,
+  "salaryTotals": [94092746, 92368675, 74148427, 24119025, 0],
   "picks": [{
     "type": "Swap",
     "year": 2016,
@@ -1453,6 +1466,7 @@
   "abbreviation": "LAL",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/13-la-lakers.png",
   "hardcapped": false,
+  "salaryTotals": [71469000, 26261160, 24956096, 9292089, 0],
   "picks": [{
     "type": "Own Pick",
     "year": 2016,
@@ -1547,6 +1561,7 @@
   "abbreviation": "MEM",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/14-memphis-grizzli.png",
   "hardcapped": true,
+  "salaryTotals": [80679597, 51718777, 32349767, 26535247, 25595700],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -1654,6 +1669,7 @@
   "abbreviation": "MIA",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/15-miami-heat.png",
   "hardcapped": false,
+  "salaryTotals": [90269303, 49863742, 52030801, 48395821, 19217900],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -1720,6 +1736,7 @@
   "abbreviation": "MIL",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/16-milwaukee-bucks.png",
   "hardcapped": false,
+  "salaryTotals": [69510913, 61672493, 54744850, 26479031, 22732396],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -1848,6 +1865,7 @@
   "abbreviation": "MIN",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/17-minnesota-timbe.png",
   "hardcapped": true,
+  "salaryTotals": [67741973, 68841142, 51140874, 25083488, 0],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -1956,6 +1974,7 @@
   "abbreviation": "NOP",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/19-new-orleans-pel.png",
   "hardcapped": true,
+  "salaryTotals": [79579759, 66267858, 45121481, 40747430, 37649820],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -2066,6 +2085,7 @@
   "abbreviation": "NYK",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/20-ny-knicks.png",
   "hardcapped": true,
+  "salaryTotals": [73505604, 67766567, 50337200, 54878508, 0],
   "picks": [{
     "type": "Trade",
     "year": 2017,
@@ -2148,6 +2168,7 @@
   "abbreviation": "OKC",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/33-oklahoma-city-t.png",
   "hardcapped": false,
+  "salaryTotals": [97157410, 69394301, 28427937, 29125134, 5333500],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -2264,6 +2285,7 @@
   "abbreviation": "ORL",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/21-orlando-magic.png",
   "hardcapped": false,
+  "salaryTotals": [68110001, 61515242, 55947352, 32717231, 0],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -2388,6 +2410,7 @@
   "abbreviation": "PHI",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/22-philadelphia-76.png",
   "hardcapped": false,
+  "salaryTotals": [30928377, 31433508, 22074003, 10345136, 0],
   "picks": [{
     "type": "Swap",
     "year": 2016,
@@ -2626,6 +2649,7 @@
   "abbreviation": "PHX",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/23-phoenix-suns.png",
   "hardcapped": false,
+  "salaryTotals": [72932476, 65932110, 54591041, 55130615, 15643750],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -2759,6 +2783,7 @@
   "abbreviation": "POR",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/24-portland-trailb.png",
   "hardcapped": false,
+  "salaryTotals": [45446074, 45352580, 41734307, 31057625, 25672293],
   "picks": [{
     "type": "Trade",
     "year": 2019,
@@ -2847,6 +2872,7 @@
   "abbreviation": "SAC",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/25-sacramento-king.png",
   "hardcapped": false,
+  "salaryTotals": [71733666, 66056451, 51030637, 13436375, 0],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -2932,6 +2958,7 @@
   "abbreviation": "SAS",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/26-san-antonio-spu.png",
   "hardcapped": false,
+  "salaryTotals": [85885935, 85480753, 75434465, 52446203, 21329750],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -3032,6 +3059,7 @@
   "abbreviation": "TOR",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/28-toronto-raptors.png",
   "hardcapped": false,
+  "salaryTotals": [71819710, 82667970, 68449150, 53653782, 17617978],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -3150,6 +3178,7 @@
   "abbreviation": "UTA",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/29-utah-jazz.png",
   "hardcapped": false,
+  "salaryTotals": [60726758, 58724168, 53517611, 14900764, 0],
   "picks": [{
     "type": "Trade",
     "year": 2016,
@@ -3328,6 +3357,7 @@
   "abbreviation": "WAS",
   "imgsrc": "http://basketball.realgm.com/images/basketball/5.0/team_logos/nba/30-washington-dc.png",
   "hardcapped": true,
+  "salaryTotals": [76433998, 47035521, 32939499, 35943648, 0],
   "picks": [{
     "type": "Own Pick",
     "year": 2016,

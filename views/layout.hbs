@@ -17,8 +17,21 @@
               <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
               <ul class="right hide-on-med-and-down">
                   <li><a href="#modalLogin" class="modal-trigger"><i class="mdi-action-perm-identity"></i></a></li>
-                  <li><a href="/"><i class="mdi-action-autorenew"></i></a></li>
-                  <li><a href="#"><i class="mdi-navigation-more-vert"></i></a></li>
+                  <li><a class='dropdown-button' data-hover='true' data-beloworigin='true' data-constrainwidth='false' data-activates='dropdown1' href="#"><i class="mdi-action-autorenew"></i></a>
+                    <ul id='dropdown1' class='dropdown-content'>
+                      <li><a href="/">Trade Checker</a></li>
+                      {{#if user}}
+                        <li><a href="/trades/mytrades">My Trades</a></li>
+                      {{/if}}
+                      <li><a href="/trades">Public Trades</a></li>
+                    </ul>
+                  </li>
+                  <li><a class='dropdown-button' data-hover='true' data-beloworigin='true' data-constrainwidth='false' data-activates='dropdown2' href="#"><i class="mdi-action-assessment"></i></a>
+                    <ul id='dropdown2' class='dropdown-content'>
+                      <li><a href="/data">NBA Data</a></li>
+                      <li><a href="/data/leagueleaders">League Leaders</a></li>
+                    </ul></a>
+                  </li>
               </ul>
               <ul class="side-nav" id="mobile-demo">
                   <li><a href="/">Trade Checker</a></li>

@@ -1,5 +1,9 @@
 @teamlogosdistance: 10px;
+@cardbackground: rgb(167,219,216);
+@cardaccents: rgb(105,210,231);
 
+// Color Palette:
+// http://www.colourlovers.com/palette/92095/Giant_Goldfish
 
 body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
@@ -28,15 +32,27 @@ a {
 }
 
 .selectedTeam {
-
+  background-color: rgba(21, 246, 1, 0.5);
 }
 
 .usedTeam {
+  opacity: 0.4;
+}
 
+.card {
+  background-color: @cardbackground;
 }
 
 .selectedPlayer {
 
+}
+
+.btn-flat {
+  color: white;
+}
+
+.playerCollapsible, .picksCollapsible {
+  color: rgb(0, 0, 0);
 }
 
 .welcomePadding {

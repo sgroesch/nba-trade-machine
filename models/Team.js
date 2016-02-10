@@ -9,6 +9,7 @@ var Team = new Schema({
   abbreviation: String,
   imgsrc: String,
   hardcapped: Boolean,
+  salaryTotals: [Number],
   picks: [{
     type: String,
     year: Number,

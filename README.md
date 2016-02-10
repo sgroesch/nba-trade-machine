@@ -2,11 +2,10 @@
 Making an NBA trading machine
 
 
-
 ### Technologies Used
+- Node
 - Express
 - MongoDB
-- React
 - jQuery
 - Passport
 
@@ -17,14 +16,3 @@ Making an NBA trading machine
 
 
 ### Future additions
-
-
-
-
-### Notes
-- Add link to User Stories
-- Add link wireframes
-- Account Management page
-  - Change password
-  - Email verification
-- Add GIFs to README and Portfolio
